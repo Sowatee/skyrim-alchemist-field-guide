@@ -1485,6 +1485,204 @@
       "Damage Stamina Regen"
     ],
     "image": "https://images.uesp.net/a/ab/SR-flora-Yellow_Mountain_Flower.jpg"
+  },
+  {
+    "id": "FExxxD62",
+    "name": "Alocasia Fruit",
+    "description": "Sold by Khajiit trade caravans.",
+    "good-effects": [
+      "Regenerate Stamina",
+      "Light",
+      "Regenerate Health"
+    ],
+    "bad-effects": [
+      "Ravage Magicka"
+    ],
+    "image": "https://images.uesp.net/9/99/SR-ingredient-Alocasia_Fruit.jpg"
+  },
+  {
+    "id": "FExxx836",
+    "name": "Ambrosia",
+    "description": "Sold by Khajiit trade caravans.",
+    "good-effects": [
+      "Restore Health",
+      "Regenerate Health",
+      "Fortify Health",
+      "Cure Poison"
+    ],
+    "image": "https://images.uesp.net/f/f2/SR-ingredient-Ambrosia.jpg"
+  },
+  {
+    "id": "xx0008EB",
+    "name": "Angelfish",
+    "description": "caught by fishing in temperate lakes with an alik'ri rod, or in the ancestor glade.",
+    "good-effects": [
+      "Regenerate Health",
+      "Resist Fire",
+      "Fortify Marksman",
+      "Waterbreathing"
+    ],
+    "image": "https://images.uesp.net/f/fa/SR-ingredient-Angelfish.png"
+  },
+  {
+    "id": "xx0008F0",
+    "name": "Angler Larvae",
+    "description": "caught by fishing in freezing waters.",
+    "good-effects": [
+      "Regenerate Stamina",
+      "Waterbreathing",
+      "Fortify Two-handed"
+    ],
+    "bad-effects": [
+      "Lingering Damage Health"
+    ],
+    "image": "https://images.uesp.net/3/3a/SR-ingredient-Angler_Larvae.jpg"
+  },
+  {
+    "id": "FExxD66",
+    "name": "Aster Bloom Core",
+    "description": "sold by khajiit trade caravans.",
+    "good-effects": [
+      "Resist Magic",
+      "Fortify Light Armor",
+      "Fortify Block"
+    ],
+    "bad-effects": [
+      "Paralysis"
+    ],
+    "image": "https://images.uesp.net/6/62/SR-ingredient-Aster_Bloom_Core.jpg"
+  },
+  {
+    "id": "FExxD68",
+    "name": "Bittergreen Petals",
+    "description": "sold by khajiit trade caravans.",
+    "good-effects": [
+      "Invisibility",
+      "Cure Poison"
+    ],
+    "bad-effects": [
+      "Lingering Damage Stamina",
+      "Damage Magicka"
+    ],
+    "image": "https://images.uesp.net/c/ce/SR-ingredient-Bittergreen_Petals.jpg"
+  },
+  {
+    "id": "FExxx822",
+    "name": "Blind Watcher's Eye",
+    "description": "sold by khajiit trade caravans.",
+    "good-effects": [
+      "Light",
+      "Fortify Magicka",
+      "Fortify Alteration",
+      "Spell Absorption"
+    ],
+    "image": "https://images.uesp.net/3/38/SR-ingredient-Blind_Watcher%27s_Eye.jpg"
+  },
+  {
+    "id": "xx059155",
+    "name": "Bliss Bug Thorax",
+    "description": "Harvested from Bliss Bugs. The majority of them can be found within the Solitude Sewers.",
+    "good-effects": [
+      "Resist Fire",
+      "Fortify Heavy Armor",
+      "Fortify Illusion"
+    ],
+    "bad-effects": [
+      "Weakness to Fire"
+    ],
+    "image": "https://images.uesp.net/4/48/SR-creature-Bliss_Bug.jpg"
+  },
+  {
+    "id": "FExxxD6A",
+    "name": "Blister Pod Cap",
+    "description": "sold by khajiit trade caravans.",
+    "good-effects": [
+      "Restore Magicka",
+      "Fortify Magicka",
+      "Night Eye",
+      "Invisibility"
+    ],
+    "image": "https://images.uesp.net/c/c9/SR-ingredient-Blister_Pod_Cap.jpg"
+  },
+  {
+    "id": "xx024C13",
+    "name": "Bloodgrass",
+    "description": "Harvested from the Deadlands, if one has The Cause to go there.",
+    "good-effects": [
+      "Invisibility",
+      "Resist Poison",
+      "Fortify Health"
+    ],
+    "bad-effects": [
+      "Slow"
+    ],
+    "image": "https://images.uesp.net/a/a8/SR-ingredient-Bloodgrass.png"
+  },
+  {
+    "id": "FExxxD6C",
+    "name": "Bog Beacon",
+    "description": "sold by khajiit caravans.",
+    "good-effects": [
+      "Restore Magicka",
+      "Fortify Heavy Armor"
+    ],
+    "bad-effects": [
+      "Fear",
+      "Damage Stamina"
+    ],
+    "image": "https://images.uesp.net/f/f2/SR-ingredient-Bog_Beacon.jpg"
+  },
+  {
+    "id": "FExxx802",
+    "name": "Bungler's Bane",
+    "description": "sold by khajiit trade caravans.",
+    "good-effects": [
+      "Resist Magic"
+    ],
+    "bad-effects": [
+      "Slow",
+      "Ravage Stamina",
+      "Damage Stamina Regen"
+    ],
+    "image": "https://images.uesp.net/9/95/SR-ingredient-Bungler%27s_Bane.jpg"
+  },
+  {
+    "id": "FExxx838",
+    "name": "Chokeberry",
+    "description": "sold by khajiit trade caravans.",
+    "bad-effects": [
+      "Damage Health",
+      "Ravage Health",
+      "Lingering Damage Health",
+      "Weakness to Poison"
+    ],
+    "image": "https://images.uesp.net/f/fd/SR-ingredient-Chokeberry.jpg"
+  },
+  {
+    "id": "FExxx804",
+    "name": "Chokeweed",
+    "description": "sold by khajiit trade caravans.",
+    "good-effects": [
+      "Restore Stamina",
+      "Cure Disease"
+    ],
+    "bad-effects": [
+      "Weakness to Frost",
+      "Damage Magicka"
+    ],
+    "image": "https://images.uesp.net/5/57/SR-ingredient-Chokeweed.jpg"
+  },
+  {
+    "id": "",
+    "name": "",
+    "description": "",
+    "good-effects": [
+  
+    ],
+    "bad-effects": [
+  
+    ],
+    "image": ""
   }
 
 ]
