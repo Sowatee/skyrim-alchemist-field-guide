@@ -1,0 +1,906 @@
+[
+  {
+    "id": "00106e1b",
+    "name": "Abecean Longfin",
+    "description": "Collected by catching Abecean Longfin fish.",
+    "good-effects": [
+      "Fortify Sneak",
+      "Fortify Restoration"
+    ],
+    "bad-effects": [
+      "Weakness to Frost",
+      "Weakness to Poison"
+    ],
+    "image": "https://images.uesp.net/5/5c/SR-ingredient-Abacean_Longfin.jpg"
+  },
+  {
+    "id": "xx0059ba",
+    "name": "Ancestor Moth Wing",
+    "description": "Collected by catching Ancestor Moths",
+    "good-effects": [
+      "Fortify Conjuration",
+      "Fortify Enchanting"
+    ],
+    "bad-effects": [
+      "Damage Stamina",
+      "Damage Magicka Regen"
+    ],
+    "image": "https://images.uesp.net/1/16/SR-ingredient-Ancestor_Wing.jpg"
+  },
+  {
+    "id": "xx01cd74",
+    "name": "Ash Creep Cluster",
+    "description": "Harvested from creep cluster plants unique to Solstheim",
+    "good-effects": [
+      "Invisibility",
+      "Resist Fire",
+      "Fortify Destruction"
+    ],
+    "bad-effects": [
+      "Damage Stamina"
+    ],
+    "image": "https://images.uesp.net/d/d6/SR-flora-Creep_Cluster_2.jpg"
+  },
+  {
+    "id": "xx01cd71",
+    "name": "Ash Hopper Jelly",
+    "description": "Collected from dead ash hoppers",
+    "good-effects": [
+      "Restore Health",
+      "Fortify Light Armor",
+      "Resist Shock"
+    ],
+    "bad-effects": [
+      "Weakness to Frost"
+    ],
+    "image": "https://images.uesp.net/6/62/SR-ingredient-Ash_Hopper_Jelly.jpg"
+  },
+  {
+    "id": "xx016e26",
+    "name": "Ashen Grass Pod",
+    "description": "Harvested from spiky grass plants unique to Solstheim",
+    "good-effects": [
+      "Resist Fire",
+      "Fortify Lockpicking",
+      "Fortify Sneak"
+    ],
+    "bad-effects": [
+      "Weakness to Shock"
+    ],
+    "image": "https://images.uesp.net/3/36/SR-flora-Spiky_Grass_2.jpg"
+  },
+  {
+    "id": "0006bc02",
+    "name": "Bear Claws",
+    "description": "Collected from various types of dead bears.",
+    "good-effects": [
+      "Restore Stamina",
+      "Fortify Health",
+      "Fortify One-handed"
+    ],
+    "bad-effects": [
+      "Damage Magicka Regen"
+    ],
+    "image": "https://images.uesp.net/9/95/SR-ingredient-Bear_Claws.jpg"
+  },
+  {
+    "id": "000a9195",
+    "name": "Bee",
+    "description": "Collected from beehives and by catching bees.",
+    "good-effects": [
+      "Restore Stamina",
+      "Regenerate Stamina"
+    ],
+    "bad-effects": [
+      "Ravage Stamina",
+      "Weakness to Shock"
+    ],
+    "image": "https://images.uesp.net/9/9a/SR-ingredient-Bee.jpg"
+  },
+  {
+    "id": "000a9191",
+    "name": "Beehive Husk",
+    "description": "Collected from beehives.",
+    "good-effects": [
+      "Resist Poison",
+      "Fortify Light Armor",
+      "Fortify Sneak",
+      "Fortify Destruction"
+    ],
+    "image": "https://images.uesp.net/3/32/SR-flora-Beehive.jpg"
+  },
+  {
+    "id": "0004da20",
+    "name": "Bleeding Crown",
+    "description": "Harvested from Bleeding Crown, a mushroom found in various caves",
+    "good-effects": [
+      "Fortify Block",
+      "Resist Magic"
+    ],
+    "bad-effects": [
+      "Weakness to Fire",
+      "Weakness to Poison"
+    ],
+    "image": "https://images.uesp.net/0/08/SR-flora-Bleeding_Crown_Plant.jpg"
+  },
+  {
+    "id": "0004da25",
+    "name": "Blisterwort",
+    "description": "Harvested from Blisterwort mushrooms found in various caves.",
+    "good-effects": [
+      "Restore Health",
+      "Fortify Smithing"
+    ],
+    "bad-effects": [
+      "Damage Stamina",
+      "Frenzy"
+    ],
+    "image": "https://images.uesp.net/7/7f/SR-flora-Blisterwort_Cluster.jpg"
+  },
+  {
+    "id": "000727de",
+    "name": "Blue Butterfly Wing",
+    "description": "Collected by catching blue butterflies. Often found during daylight hours near flowering plants.",
+    "good-effects": [
+      "Fortify Conjuration",
+      "Fortify Enchanting"
+    ],
+    "bad-effects": [
+      "Damage Stamina",
+      "Damage Magicka Regen"
+    ],
+    "image": "https://images.uesp.net/3/36/SR-ingredient-Blue_Butterfly.jpg"
+  },
+  {
+    "id": "000e4f0c",
+    "name": "Blue Dartwing",
+    "description": "Collected by catching dragonflies found near rivers and streams below the snow line.",
+    "good-effects": [
+      "Resist Shock",
+      "Fortify Pickpocket",
+      "Restore Health"
+    ],
+    "bad-effects": [
+      "Fear"
+    ],
+    "image": "https://images.uesp.net/8/86/SR-ingredient-Blue_Dartwing.jpg"
+  },
+  {
+    "id": "00077e1c",
+    "name": "Blue Mountain Flower",
+    "description": "Harvested from the blue variety of Mountain Flower, found throughout Skyrim.",
+    "good-effects": [
+      "Restore Health",
+      "Fortify Conjuration",
+      "Fortify Health"
+    ],
+    "bad-effects": [
+      "Damage Magicka Regen"
+    ],
+    "image": "https://images.uesp.net/9/97/SR-flora-Blue_Mountain_Flower.jpg"
+  },
+  {
+    "id": "xx01cd6f",
+    "name": "Boar Tusk",
+    "description": "Collected from dead bristlebacks and rieklings.",
+    "good-effects": [
+      "Fortify Stamina",
+      "Fortify Health",
+      "Fortify Block"
+    ],
+    "bad-effects": [
+      "Frenzy"
+    ],
+    "image": "https://images.uesp.net/6/6f/SR-creature-Bristleback.jpg"
+  },
+  {
+    "id": "00034cdd",
+    "name": "Bone Meal",
+    "description": "Collected from undead such as skeletons, and Draugr.",
+    "good-effects": [
+      "Resist Fire",
+      "Fortify Conjuration"
+    ],
+    "bad-effects": [
+      "Damage Stamina",
+      "Ravage Stamina"
+    ],
+    "image": "https://images.uesp.net/8/89/SR-ingredient-Bone_Meal.jpg"
+  },
+  {
+    "id": "0003ad61",
+    "name": "Briar Heart",
+    "description": "Collected from Forsworn Briarhearts.",
+    "good-effects": [
+      "Restore Magicka",
+      "Fortify Block",
+      "Fortify Magicka"
+    ],
+    "bad-effects": [
+      "Paralysis"
+    ],
+    "image": "https://images.uesp.net/b/be/SR-ingredient-Briar_Heart.jpg"
+  },
+  {
+    "id": "xx01cd6e",
+    "name": "Burnt Spriggan Wood",
+    "description": "Collected from dead burnt spriggans.",
+    "good-effects": [
+      "Fortify Alteration"
+    ],
+    "bad-effects": [
+      "Weakness to Fire",
+      "Damage Magicka Regen",
+      "Slow"
+    ],
+    "image": "https://images.uesp.net/2/2c/SR-creature-Burnt_Spriggan.jpg"
+  },
+  {
+    "id": "000727e0",
+    "name": "Butterfly Wing",
+    "description": "Collected from catching monarch butterflies. Often found during daylight hours near flowering plants.",
+    "good-effects": [
+      "Restore Health",
+      "Fortify Barter"
+    ],
+    "bad-effects": [
+      "Lingering Damage Stamina",
+      "Damage Magicka"
+    ],
+    "image": "https://images.uesp.net/3/3d/SR-ingredient-Monarch_Butterfly.jpg"
+  },
+  {
+    "id": "0006abcb",
+    "name": "Canis Root",
+    "description": "Harvested from Canis Root, found in The Rift and Hjaalmarch.",
+    "good-effects": [
+      "Fortify One-handed",
+      "Fortify Marksman"
+    ],
+    "bad-effects": [
+      "Damage Stamina",
+      "Paralysis"
+    ],
+    "image": "https://images.uesp.net/d/d8/SR-flora-Canis-Root.jpg"
+  },
+  {
+    "id": "00052695",
+    "name": "Charred Skeever Hide",
+    "description": "Food, and collected from dead skeevers found on roasting spits.",
+    "good-effects": [
+      "Restore Stamina",
+      "Cure Disease",
+      "Resist Poison",
+      "Restore Health"
+    ],
+    "image": "https://images.uesp.net/8/8f/SR-ingredient-Charred_Skeever_Hide.jpg"
+  },
+  {
+    "id": "0003ad56",
+    "name": "Chaurus Eggs",
+    "description": "Collected from chaurus egg sacs, found in falmer caves.",
+    "good-effects": [
+      "Fortify Stamina",
+      "Invisibility"
+    ],
+    "bad-effects": [
+      "Weakness to Poison",
+      "Damage Magicka"
+    ],
+    "image": "https://images.uesp.net/e/e1/SR-ingredient-Chaurus_Eggs.jpg"
+  },
+  {
+    "id": "xx0183b7",
+    "name": "Chaurus Hunter Antennae",
+    "description": "Collected from dead chaurus hunters and chaurus hunter fledglings.",
+    "good-effects": [
+      "Fortify Conjuration",
+      "Fortify Enchanting"
+    ],
+    "bad-effects": [
+      "Damage Stamina",
+      "Damage Magicka Regen"
+    ],
+    "image": "https://images.uesp.net/1/10/SR-ingredient-Chaurus_Hunter.jpg"
+  },
+  {
+    "id": "00023d77",
+    "name": "Chicken's Egg",
+    "description": "Food, harvested from chicken nests in various farms.",
+    "good-effects": [
+      "Resist Magic",
+      "Waterbreathing"
+    ],
+    "bad-effects": [
+      "Damage Magicka Regen",
+      "Lingering Damage Stamina"
+    ],
+    "image": "https://images.uesp.net/a/ad/SR-ingredient-Chicken%27s_Egg.jpg"
+  },
+  {
+    "id": "000b2183",
+    "name": "Creep Cluster",
+    "description": "Harvested from creep cluster, found in the volcanic tundra of eastmarch.",
+    "good-effects": [
+      "Restore Magicka",
+      "Fortify Carry Weight"
+    ],
+    "bad-effects": [
+      "Damage Stamina Regen",
+      "Weakness to Magic"
+    ],
+    "image": "https://images.uesp.net/5/54/SR-flora-Creep_Cluster.jpg"
+  },
+  {
+    "id": "000b701a",
+    "name": "Crimson Nirnroot",
+    "description": "Harvested from Crimson Nirnroot, found in Blackreach, needed for the quest a return to your roots.",
+    "good-effects": [
+      "Invisibility",
+      "Resist Magic"
+    ],
+    "bad-effects": [
+      "Damage Health",
+      "Damage Stamina"
+    ],
+    "image": "https://images.uesp.net/4/46/SR-flora-Crimson_Nirnroot.jpg"
+  },
+  {
+    "id": "00106e19",
+    "name": "Cyrodilic Spadetail",
+    "description": "collected by catching cyrodilic spadetail fish.",
+    "good-effects": [
+      "Fortify Restoration"
+    ],
+    "bad-effects": [
+      "Damage Stamina",
+      "Fear",
+      "Ravage Health"
+    ],
+    "image": "https://images.uesp.net/a/a7/SR-ingredient-Cyrodilic_Spadetail.jpg"
+  },
+  {
+    "id": "0003ad5b",
+    "name": "Daedra Heart",
+    "description": "collected from dead dremora.",
+    "good-effects": [
+      "Restore Health"
+    ],
+    "bad-effects": [
+      "Damage Stamina Regen",
+      "Damage Magicka",
+      "Fear"
+    ],
+    "image": "https://images.uesp.net/8/8a/SR-ingredient-Daedra_Heart.jpg"
+  },
+  {
+    "id": "000516c8",
+    "name": "Deathbell",
+    "description": "harvested from deathbell, found in Hjaalmarch. needed for the quests few and far between and the only cure.",
+    "bad-effects": [
+      "Damage Health",
+      "Ravage Stamina",
+      "Slow",
+      "Weakness to Poison"
+    ],
+    "image": "https://images.uesp.net/5/5d/SR-flora-Deathbell.jpg"
+  },
+  {
+    "id": "000889a2",
+    "name": "Dragon's Tongue",
+    "description": "Harvested from Dragon's Tongue, found in the volcanic tundra of Eastmarch.",
+    "good-effects": [
+      "Resist Fire",
+      "Fortify Barter",
+      "Fortify Illusion",
+      "Fortify Two-handed"
+    ],
+    "image": "https://images.uesp.net/2/29/SR-flora-Dragon%27s_Tongue.jpg"
+  },
+  {
+    "id": "000f11c0",
+    "name": "Dwarven Oil",
+    "description": "collected from destroyed dwarven automatons, found in dwarven ruins.",
+    "good-effects": [
+      "Fortify Illusion",
+      "Regenerate Magicka",
+      "Restore Magicka"
+    ],
+    "bad-effects": [
+      "Weakness to Magic"
+    ],
+    "image": "https://images.uesp.net/1/1f/SR-ingredient-Dwarven_Oil.jpg"
+  },
+  {
+    "id": "0003ad63",
+    "name": "Ectoplasm",
+    "description": "collected from undead ghosts.",
+    "good-effects": [
+      "Restore Magicka",
+      "Fortify Destruction",
+      "Fortify Magicka"
+    ],
+    "bad-effects": [
+      "Damage Health"
+    ],
+    "image": "https://images.uesp.net/b/b4/SR-ingredient-Ectoplasm.jpg"
+  },
+  {
+    "id": "00034d31",
+    "name": "Elves Ear",
+    "description": "Harvested from dried elves ear bunches found in homes and camps.",
+    "good-effects": [
+      "Restore Magicka",
+      "Fortify Marksman",
+      "Resist Fire"
+    ],
+    "bad-effects": [
+      "Weakness to Frost"
+    ],
+    "image": "https://images.uesp.net/3/37/SR-ingredient-Elves_Ear.jpg"
+  },
+  {
+    "id": "xx01ff75",
+    "name": "Emperor Parasol Moss",
+    "description": "Harvested from emperor parasol moss plants near Tel Mithryn.",
+    "good-effects": [
+      "Fortify Magicka",
+      "Regenerate Health",
+      "Fortify Two-handed"
+    ],
+    "bad-effects": [
+      "Damage Health"
+    ],
+    "image": "https://images.uesp.net/e/ed/SR-flora-Emperor_Parasol_Moss.jpg"
+  },
+  {
+    "id": "0006bc07",
+    "name": "Eye of Sabre Cat",
+    "description": "collected from dead sabre cats.",
+    "good-effects": [
+      "Restore Stamina",
+      "Restore Health"
+    ],
+    "bad-effects": [
+      "Ravage Health",
+      "Damage Magicka"
+    ],
+    "image": "https://images.uesp.net/0/0f/SR-creature-Sabre_Cat.jpg"
+  },
+  {
+    "id": "0003ad5d",
+    "name": "Falmer Ear",
+    "description": "collected from dead falmer.",
+    "good-effects": [
+      "Resist Poison",
+      "Fortify Lockpicking"
+    ],
+    "bad-effects": [
+      "Damage Health",
+      "Frenzy"
+    ],
+    "image": "https://images.uesp.net/b/b2/SR-ingredient-Falmer_Ear.jpg"
+  },
+  {
+    "id": "xx03cd8e",
+    "name": "Felsaad Tern Feathers",
+    "description": "collected from dead felsaad terns",
+    "good-effects": [
+      "Restore Health",
+      "Fortify Light Armor",
+      "Cure Disease",
+      "Resist Magic"
+    ],
+    "image": "https://images.uesp.net/9/97/SR-creature-Felsaad_Tern.jpg"
+  },
+  {
+    "id": "0003ad5e",
+    "name": "Fire Salts",
+    "description": "collected from dead flame atronachs, a type of daedra. needed for the quest stoking the flames.",
+    "good-effects": [
+      "Resist Fire",
+      "Restore Magicka",
+      "Regenerate Magicka"
+    ],
+    "bad-effects": [
+      "Weakness to Frost"
+    ],
+    "image": "https://images.uesp.net/c/ce/SR-ingredient-Fire_Salts.jpg"
+  },
+  {
+    "id": "0004da00",
+    "name": "Fly Amanita",
+    "description": "harvested from fly amanita mushrooms, found in various caves.",
+    "good-effects": [
+      "Resist Fire",
+      "Fortify Two-handed",
+      "Regenerate Stamina"
+    ],
+    "bad-effects": [
+      "Frenzy"
+    ],
+    "image": "https://images.uesp.net/8/80/SR-flora-Fly_Amanita_Plant.jpg"
+  },
+  {
+    "id": "00034d32",
+    "name": "Frost Mirriam",
+    "description": "harvested from dried frost mirriam bunches found in homes and camps.",
+    "good-effects": [
+      "Resist Frost",
+      "Fortify Sneak"
+    ],
+    "bad-effects": [
+      "Ravage Magicka",
+      "Damage Stamina Regen"
+    ],
+    "image": "https://images.uesp.net/7/7b/SR-ingredient-Dried_Frost_Mirram.jpg"
+  },
+  {
+    "id": "0003ad5f",
+    "name": "Frost Salts",
+    "description": "collected from dead frost atronachs, a type of daedra.",
+    "good-effects": [
+      "Resist Frost",
+      "Restore Magicka",
+      "Fortify Conjuration"
+    ],
+    "bad-effects": [
+      "Weakness to Fire"
+    ],
+    "image": "https://images.uesp.net/f/fd/SR-ingredient-Frost_Salts.jpg"
+  },
+  {
+    "id": "00034d22",
+    "name": "Garlic",
+    "description": "Food. can also be harvested from garlic braids.",
+    "good-effects": [
+      "Resist Poison",
+      "Fortify Stamina",
+      "Regenerate Magicka",
+      "Regenerate Health"
+    ],
+    "image": "https://images.uesp.net/a/ad/SR-ingredient-Garlic.jpg"
+  },
+  {
+    "id": "0007e8c1",
+    "name": "Giant Lichen",
+    "description": "harvested from giant lichen, found in hjaalmarch.",
+    "good-effects": [
+      "Restore Magicka"
+    ],
+    "bad-effects": [
+      "Weakness to Shock",
+      "Ravage Health",
+      "Weakness to Poison"
+    ],
+    "image": "https://images.uesp.net/1/19/SR-flora-Giant_Lichen.jpg"
+  },
+  {
+    "id": "0003ad64",
+    "name": "Giant's Toe",
+    "description": "collected from dead giants, which can be found in giant camps.",
+    "good-effects": [
+      "Fortify Health",
+      "Fortify Carry Weight"
+    ],
+    "bad-effects": [
+      "Damage Stamina",
+      "Damage Stamina Regen"
+    ],
+    "image": "https://images.uesp.net/2/24/SR-ingredient-Giant%27s_Toe.jpg"
+  },
+  {
+    "id": "xx00b097",
+    "name": "Gleamblossom",
+    "description": "Harvested from the plant of the same name.",
+    "good-effects": [
+      "Resist Magic",
+      "Regenerate Health"
+    ],
+    "bad-effects": [
+      "Fear",
+      "Paralysis"
+    ],
+    "image": "https://images.uesp.net/a/a4/SR-flora-Gleamblossom.jpg"
+  },
+  {
+    "id": "0003ad73",
+    "name": "Glow Dust",
+    "description": "collected from dead wisps and wispmothers.",
+    "good-effects": [
+      "Fortify Destruction",
+      "Resist Shock"
+    ],
+    "bad-effects": [
+      "Damage Magicka",
+      "Damage Magicka Regen"
+    ],
+    "image": "https://images.uesp.net/b/b9/SR-ingredient-Glow_Dust.jpg"
+  },
+  {
+    "id": "0007ee01",
+    "name": "Glowing Mushroom",
+    "description": "harvested from glowing mushrooms, found in various caves.",
+    "good-effects": [
+      "Resist Shock",
+      "Fortify Destruction",
+      "Fortify Smithing",
+      "Fortify Health"
+    ],
+    "image": "https://images.uesp.net/6/68/SR-flora-Glowing_Mushroom.jpg"
+  },
+  {
+    "id": "00083e64",
+    "name": "Grass Pod",
+    "description": "harvested from spiky grass, found in northern regions of skyrim.",
+    "good-effects": [
+      "Resist Poison",
+      "Fortify Alteration"
+    ],
+    "bad-effects": [
+      "Ravage Magicka"
+    ],
+    "image": "https://images.uesp.net/2/2c/SR-flora-Spiky_Grass.jpg"
+  },
+  {
+    "id": "0006b689",
+    "name": "Hagraven Claw",
+    "description": "collected from dead hagravens.",
+    "good-effects": [
+      "Resist Magic",
+      "Fortify Enchanting",
+      "Fortify Barter"
+    ],
+    "bad-effects": [
+      "Lingering Damage Magicka"
+    ],
+    "image": "https://images.uesp.net/d/d3/SR-ingredient-Hagraven_Claw.jpg"
+  },
+  {
+    "id": "0003ad66",
+    "name": "Hagraven Feathers",
+    "description": "collected from dead hagravens. can also be found scattered around their sleeping areas.",
+    "good-effects": [
+      "Fortify Conjuration"
+    ],
+    "bad-effects": [
+      "Damage Magicka",
+      "Frenzy",
+      "Weakness to Shock"
+    ],
+    "image": "https://images.uesp.net/5/5b/SR-ingredient-Hagraven_Feathers.jpg"
+  },
+  {
+    "id": "00057f91",
+    "name": "Hanging Moss",
+    "description": "harvested from hanging moss",
+    "good-effects": [
+      "Fortify Health",
+      "Fortify One-handed"
+    ],
+    "bad-effects": [
+      "Damage Magicka",
+      "Damage Magicka Regen"
+    ],
+    "image": "https://images.uesp.net/9/9f/SR-flora-Hanging_Moss.jpg"
+  },
+  {
+    "id": "000e7ebc",
+    "name": "Hawk Beak",
+    "description": "collected from dead hawks.",
+    "good-effects": [
+      "Restore Stamina",
+      "Resist Frost",
+      "Fortify Carry Weight",
+      "Resist Shock"
+    ],
+    "image": "https://images.uesp.net/6/64/SR-ingredient-Hawk_Beak.jpg"
+  },
+  {
+    "id": "000e7ed0",
+    "name": "Hawk Feathers",
+    "description": "collected from dead hawks.",
+    "good-effects": [
+      "Cure Disease",
+      "Fortify Light Armor",
+      "Fortify One-handed",
+      "Fortify Sneak"
+    ],
+    "image": "https://images.uesp.net/6/6d/SR-ingredient-Hawk_Feathers.jpg"
+  },
+  {
+    "id": "Hawk's Egg",
+    "name": "xx00f1cc",
+    "description": "harvested from hawk nests.",
+    "good-effects": [
+      "Resist Magic",
+      "Waterbreathing"
+    ],
+    "bad-effects": [
+      "Damage Magicka Regen",
+      "Lingering Damage Stamina"
+    ],
+    "image": "https://images.uesp.net/2/29/SR-ingredient-Hawk%27s_Egg.jpg"
+  },
+  {
+    "id": "00106e18",
+    "name": "Histcarp",
+    "description": "collected by catching histcarp fish.",
+    "good-effects": [
+      "Restore Stamina",
+      "Fortify Magicka",
+      "Waterbreathing"
+    ],
+    "bad-effects": [
+      "Damage Stamina Regen"
+    ],
+    "image": "https://images.uesp.net/6/64/SR-ingredient-Histcarp.jpg"
+  },
+  {
+    "id": "000b08c5",
+    "name": "Honeycomb",
+    "description": "food. collected from beehives.",
+    "good-effects": [
+      "Restore Stamina",
+      "Fortify Block",
+      "Fortify Light Armor"
+    ],
+    "bad-effects": [
+      "Ravage Stamina"
+    ],
+    "image": "https://images.uesp.net/d/dd/SR-ingredient-Honeycomb.jpg"
+  },
+  {
+    "id": "001016b3",
+    "name": "Human Flesh",
+    "description": "Cannot be harvested or collected; with the Dawnguard add-on installed, several respawning samples can be found in Volkihar Keep.",
+    "good-effects": [
+      "Restore Magicka",
+      "Fortify Sneak"
+    ],
+    "bad-effects": [
+      "Damage Health",
+      "Paralysis"
+    ],
+    "image": "https://images.uesp.net/c/c3/SR-ingredient-Human_Flesh.jpg"
+  },
+  {
+    "id": "000b18cd",
+    "name": "Human Heart",
+    "description": "Cannot be harvested or collected; limited number of samples available.",
+    "bad-effects": [
+      "Damage Health",
+      "Damage Magicka",
+      "Damage Magicka Regen",
+      "Frenzy"
+    ],
+    "image": "https://images.uesp.net/e/e3/SR-ingredient-Human_Heart.jpg"
+  },
+  {
+    "id": "0003ad6a",
+    "name": "Ice Wraith Teeth",
+    "description": "collected from ice wraiths. needed for the quest ice cold.",
+    "good-effects": [
+      "Fortify Heavy Armor",
+      "Invisibility"
+    ],
+    "bad-effects": [
+      "Weakness to Frost",
+      "Weakness to Fire"
+    ],
+    "image": "https://images.uesp.net/5/59/SR-ingredient-Ice_Wraith_Teeth.jpg"
+  },
+  {
+    "id": "0004da23",
+    "name": "Imp Stool",
+    "description": "harvested from imp stool mushrooms, found in various caves.",
+    "good-effects": [
+      "Restore Health"
+    ],
+    "bad-effects": [
+      "Damage Health",
+      "Lingering Damage Health",
+      "Paralysis"
+    ],
+    "image": "https://images.uesp.net/d/d8/SR-flora-Imp_Stool.jpg"
+  },
+  {
+    "id": "0006ac4a",
+    "name": "Jazbay Grapes",
+    "description": "harvested from jazbay vines, found in the volcanic tundra of eastmarch. needed for the quest smooth jazbay.",
+    "good-effects": [
+      "Fortify Magicka",
+      "Regenerate Magicka"
+    ],
+    "bad-effects": [
+      "Weakness to Magic",
+      "Ravage Health"
+    ],
+    "image": "https://images.uesp.net/9/9a/SR-flora-Jazbay_Plant.jpg"
+  },
+  {
+    "id": "0005076e",
+    "name": "Juniper Berries",
+    "description": "Harvested from juniper shrubs, common in the reach. needed for the quest elmus favor quest",
+    "good-effects": [
+      "Fortify Marksman",
+      "Regenerate Health"
+    ],
+    "bad-effects": [
+      "Weakness to Fire",
+      "Damage Stamina Regen"
+    ],
+    "image": "https://images.uesp.net/1/18/SR-flora-Juniper.jpg"
+  },
+  {
+    "id": "0006bc0a",
+    "name": "Large Antlers", 
+    "description": "collected from dead male elk",
+    "good-effects": [
+      "Restore Stamina",
+      "Fortify Stamina"
+    ],
+    "bad-effects": [
+      "Slow",
+      "Damage Stamina Regen"
+    ],
+    "image": "https://images.uesp.net/8/83/SR-ingredient-Large_Antlers.jpg"
+  },
+  {
+    "id": "00045c28",
+    "name": "Lavender",
+    "description": "harvested from lavender, most common in whiterun hold.",
+    "good-effects": [
+      "Resist Magic",
+      "Fortify Stamina",
+      "Fortify Conjuration"
+    ],
+    "bad-effects": [
+      "Ravage Magicka"
+    ],
+    "image": "https://images.uesp.net/c/c0/SR-flora-Lavender_Plant.jpg"
+  },
+  {
+    "id": "000727df",
+    "name": "Luna Moth Wing",
+    "description": "collected by catching luna moths. often found near flowers after dark.",
+    "good-effects": [
+      "Fortify Light Armor",
+      "Regenerate Health",
+      "Invisibility"
+    ],
+    "bad-effects": [
+      "Damage Magicka"
+    ],
+    "image": "https://images.uesp.net/0/0e/SR-ingredient-Luna_Moth.jpg"
+  },
+  {
+    "id": "000d8e3f",
+    "name": "Moon Sugar",
+    "description": "cannot be collected or harvested. can be purchased from the khajiit traders.",
+    "good-effects": [
+      "Resist Frost",
+      "Restore Magicka",
+      "Regenerate Magicka"
+    ],
+    "bad-effects": [
+      "Weakness to Fire"
+    ],
+    "image": "https://images.uesp.net/9/94/SR-ingredient-Moon_Sugar.jpg"
+  }
+
+]
+
+
+{
+  "id": "",
+  "name": "",
+  "description": "",
+  "good-effects": [
+
+  ],
+  "bad-effects": [
+
+  ],
+  "image": ""
+}
