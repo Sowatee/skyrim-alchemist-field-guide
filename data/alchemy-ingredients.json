@@ -834,7 +834,7 @@
   },
   {
     "id": "0006bc0a",
-    "name": "Large Antlers", 
+    "name": "Large Antlers",
     "description": "collected from dead male elk",
     "good-effects": [
       "Restore Stamina",
@@ -1489,7 +1489,7 @@
   {
     "id": "FExxxD62",
     "name": "Alocasia Fruit",
-    "description": "Sold by Khajiit trade caravans.",
+    "description": "Originating from the Shivering Isle. One of the rare curious sold by khajiit trade caravans.",
     "good-effects": [
       "Regenerate Stamina",
       "Light",
@@ -1503,7 +1503,7 @@
   {
     "id": "FExxx836",
     "name": "Ambrosia",
-    "description": "Sold by Khajiit trade caravans.",
+    "description": "Originating from Mankar Camoran's destroyed realm of Oblivion. One of the rare curious sold by khajiit trade caravans.",
     "good-effects": [
       "Restore Health",
       "Regenerate Health",
@@ -1541,7 +1541,7 @@
   {
     "id": "FExxD66",
     "name": "Aster Bloom Core",
-    "description": "sold by khajiit trade caravans.",
+    "description": "Originating from the Shivering Isle. One of the rare curious sold by khajiit trade caravans.",
     "good-effects": [
       "Resist Magic",
       "Fortify Light Armor",
@@ -1555,7 +1555,7 @@
   {
     "id": "FExxD68",
     "name": "Bittergreen Petals",
-    "description": "sold by khajiit trade caravans.",
+    "description": "Originating from Vvardenfell. One of the rare curious sold by khajiit trade caravans.",
     "good-effects": [
       "Invisibility",
       "Cure Poison"
@@ -1569,7 +1569,7 @@
   {
     "id": "FExxx822",
     "name": "Blind Watcher's Eye",
-    "description": "sold by khajiit trade caravans.",
+    "description": "Originating from the Shivering Isle. One of the rare curious sold by khajiit trade caravans.",
     "good-effects": [
       "Light",
       "Fortify Magicka",
@@ -1595,7 +1595,7 @@
   {
     "id": "FExxxD6A",
     "name": "Blister Pod Cap",
-    "description": "sold by khajiit trade caravans.",
+    "description": "Originating from the Shivering Isle. One of the rare curious sold by khajiit trade caravans.",
     "good-effects": [
       "Restore Magicka",
       "Fortify Magicka",
@@ -1621,7 +1621,7 @@
   {
     "id": "FExxxD6C",
     "name": "Bog Beacon",
-    "description": "sold by khajiit caravans.",
+    "description": "Originating from Cyrodiil. One of the rare curious sold by khajiit trade caravans.",
     "good-effects": [
       "Restore Magicka",
       "Fortify Heavy Armor"
@@ -1635,7 +1635,7 @@
   {
     "id": "FExxx802",
     "name": "Bungler's Bane",
-    "description": "sold by khajiit trade caravans.",
+    "description": "Originating from Vvardenfell. One of the rare curious sold by khajiit trade caravans.",
     "good-effects": [
       "Resist Magic"
     ],
@@ -1649,7 +1649,7 @@
   {
     "id": "FExxx838",
     "name": "Chokeberry",
-    "description": "sold by khajiit trade caravans.",
+    "description": "Originating from the vile lair of a Cyrodiilic vampire assassin. One of the rare curious sold by khajiit trade caravans.",
     "bad-effects": [
       "Damage Health",
       "Ravage Health",
@@ -1661,7 +1661,7 @@
   {
     "id": "FExxx804",
     "name": "Chokeweed",
-    "description": "sold by khajiit trade caravans.",
+    "description": "Originating from Vvardenfell. One of the rare curious sold by khajiit trade caravans.",
     "good-effects": [
       "Restore Stamina",
       "Cure Disease"
@@ -1673,29 +1673,287 @@
     "image": "https://images.uesp.net/5/57/SR-ingredient-Chokeweed.jpg"
   },
   {
+    "id": "FExxx805",
+    "name": "Coda Flower",
+    "description": "Originating from Vvardenfell. One of the rare curious sold by khajiit trade caravans.",
+    "good-effects": [
+      "Fortify Carry Weight"
+    ],
+    "bad-effects": [
+      "Damage Health",
+      "Lingering Damage Stamina",
+      "Ravage"
+    ],
+    "image": "https://images.uesp.net/1/12/SR-ingredient-Coda_Flower.jpg"
+  },
+  {
+    "id": "FExxx806",
+    "name": "Comberry",
+    "description": "Originating from Vvardenfell. One of the rare curious sold by khajiit trade caravans.",
+    "good-effects": [
+      "Spell Absorption",
+      "Restore Magicka",
+      "Fortify Destruction"
+    ],
+    "bad-effects": [
+      "Damage Stamina"
+    ],
+    "image": "https://images.uesp.net/e/ee/SR-ingredient-Comberry.jpg"
+  },
+  {
+    "id": "FExxx807",
+    "name": "Congealed Putrescence",
+    "description": "Originating from the Shivering Isle. One of the Rare Curios sold by Khajiit trade caravans.",
+    "good-effects": [
+      "Restore Magicka",
+      "Fortify Conjuration"
+    ],
+    "bad-effects": [
+      "Ravage Health",
+      "Weakness to Fire"
+    ],
+    "image": "https://images.uesp.net/d/de/SR-ingredient-Congealed_Putrescence.jpg"
+  },
+  {
+    "id": "FExxx809",
+    "name": "Corkbulb Root",
+    "description": "Originating from Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.",
+    "good-effects": [
+      "Restore Health",
+      "Resist Shock",
+      "Fortify Marksman"
+    ],
+    "bad-effects": [
+      "paralysis"
+    ],
+    "image": "https://images.uesp.net/a/a7/SR-ingredient-Corkbulb_Root.jpg"
+  },
+  {
+    "id": "FExxx80A",
+    "name": "Daedra Silk",
+    "description": "Originating from the planes of Oblivion. One of the Rare Curios sold by khajiit trade caravans.",
+    "good-effects": [
+      "Night Eye",
+      "Invisibility"
+    ],
+    "bad-effects": [
+      "Lingering Damage Stamina",
+      "Paralysis"
+    ],
+    "image": "https://images.uesp.net/d/d7/SR-ingredient-Daedra_Silk.jpg"
+  },
+  {
+    "id": "FExxx80B",
+    "name": "Daedra Venin",
+    "description": "originating from the planes of oblivion. one of the rare curios sold by khajiit trade caravans.",
+    "good-effects": [
+      "Fortify Destruction",
+      "Spell Absorption"
+    ],
+    "bad-effects": [
+      "Ravage Health",
+      "Paralysis"
+    ],
+    "image": "https://images.uesp.net/6/6e/SR-ingredient-Daedra_Venin.jpg"
+  },
+  {
+    "id": "FExxx826",
+    "name": "Daedroth teeth",
+    "description": "originating from the planes of oblivion. one of the rare curios sold by khajiit trade caravans.",
+    "good-effects": [
+      "Resist Frost",
+      "Light",
+      "Regenerate Stamina"
+    ],
+    "bad-effects": [
+      "Damage Magicka Regen"
+    ],
+    "image": "https://images.uesp.net/f/fe/SR-ingredient-Daedroth_Teeth.jpg"
+  },
+  {
+    "id": "FExxx827",
+    "name": "dreugh wax",
+    "description": "originating from vvardenfell's dreughs or cyrodiil's land dreughs. one of the rare curios sold by khajiit trade caravans.",
+    "good-effects": [
+      "Fortify Enchanting",
+      "Fortify Smithing"
+    ],
+    "bad-effects": [
+      "Weakness to Magic",
+      "Frenzy"
+    ],
+    "image": "https://images.uesp.net/9/95/SR-ingredient-Dreugh_Wax.jpg"
+  },
+  {
+    "id": "FExxx828",
+    "name": "Elytra Ichor",
+    "description": "originating from the shivering isle. one of the rare curios sold by khajiit trade caravans.",
+    "good-effects": [
+      "Restore Magicka",
+      "Invisibility"
+    ],
+    "bad-effects": [
+      "Slow",
+      "Fear"
+    ],
+    "image": "https://images.uesp.net/2/24/SR-ingredient-Elytra_Ichor.jpg"
+  },
+  {
+    "id": "FExxx829",
+    "name": "Fire Petal",
+    "description": "originating from vvardenfell. one of the rare curios sold by khajiit trade caravans.",
+    "good-effects": [
+      "Resist Fire",
+      "Spell Absorption"
+    ],
+    "bad-effects": [
+      "Damage Health",
+      "Paralysis"
+    ],
+    "image": "https://images.uesp.net/7/72/SR-ingredient-Fire_Petal.jpg"
+  },
+  {
+    "id": "xx095E23",
+    "name": "Flame Stalk",
+    "description": "originating from the shivering isle. one of the rare curios sold by khajiit trade caravans.",
+    "good-effects": [
+      "Restore Health",
+      "Resist Frost",
+      "Invisibility"
+    ],
+    "bad-effects": [ 
+      "Weakness to Fire"
+    ],
+    "image": "https://images.uesp.net/f/fe/SR-flora-Flame_Stalk.jpg"
+  },
+  {
+    "id": "FExxx82B",
+    "name": "Fungus Stalk",
+    "description": "originating from the shivering isle. one of the rare curios sold by khajiit trade caravans.",
+    "good-effects": [
+      "Restore Magicka",
+      "Fortify Health",
+      "Fortify Stamina",
+      "Waterbreathing"
+    ],
+    "image": "https://images.uesp.net/c/c6/SR-ingredient-Fungus_Stalk.jpg"
+  },
+  {
+    "id": "xx0008EE",
+    "name": "Glassfish",
+    "description": "caught by fishing in temperate lakes.",
+    "good-effects": [
+      "Restore Magicka",
+      "Invisibility",
+      "Fortify Illusion",
+      "Fortify Persuasion"
+    ],
+    "image": "https://images.uesp.net/8/88/SR-ingredient-Glassfish.png"
+  },
+  {
+    "id": "FExxx82C",
+    "name": "Gnarl Bark",
+    "description": "originating from the shivering isle. one of the rare curios sold by khajiit trade caravans.",
+    "good-effects": [
+      "Regenerate Health",
+      "Fortify Heavy Armor",
+      "Resist Fire"
+    ],
+    "bad-effects": [
+      "Damage Health"
+    ],
+    "image": "https://images.uesp.net/d/d0/SR-ingredient-Gnarl_Bark.jpg"
+  },
+  {
+    "id": "xx0008EF",
+    "name": "goldfish",
+    "description": "caught by fishing in temperate lakes in clear weathers or in the ponds found in some clearings.",
+    "good-effects": [
+      "Restore Stamina",
+      "Fortify Heavy Armor",
+      "Waterbreathing",
+      "Resist Frost"
+    ],
+    "image": "https://images.uesp.net/2/25/SR-ingredient-Goldfish.jpg"
+  },
+  {
+    "id": "FExx82D",
+    "name": "Gold Kanet",
+    "description": "originating from vvardenfell. one of the rare curios sold by khajiit trade caravans.",
+    "good-effects": [
+      "Fortify Smithing"
+    ],
+    "bad-effects": [
+      "Paralysis",
+      "Ravage Health",
+      "Weakness to Frost"
+    ],
+    "image": "https://images.uesp.net/0/0e/SR-ingredient-Gold_Kanet.jpg"
+  },
+  {
+    "id": "xx059151",
+    "name": "Green Butterfly wing",
+    "description": "harvested by catching green butterflies.",
+    "good-effects": [
+      "Restore Magicka",
+      "Invisibility"
+    ],
+    "bad-effects": [
+      "Fear",
+      "Slow"
+    ],
+    "image": "https://images.uesp.net/d/d3/SR-creature-Green_Butterfly.jpg"
+  },
+  {
+    "id": "FExxx82E",
+    "name": "Hackle-Lo Leaf",
+    "description": "originating from vvardenfell. one of the rare curios sold by khajiit trade caravans.",
+    "good-effects": [
+      "Restore Stamina",
+      "Waterbreathing",
+      "Fortify Restoration"
+    ],
+    "bad-effects": [
+      "Paralysis"
+    ],
+    "image": "https://images.uesp.net/2/28/SR-ingredient-Hackle-Lo_Leaf.jpg"
+  },
+  {
+    "id": "xx024C11",
+    "name": "harrada",
+    "description": "harvested from the deadlands, if one has the cause to go there.",
+    "bad-effects": [
+      "Damage Health",
+      "Damage Magicka",
+      "Paralysis",
+      "Damage Magicka Regen"
+    ],
+    "image": "https://images.uesp.net/8/87/SR-icon-ingredient-Harrada.png"
+  },
+  {
+    "id": "FExxx851",
+    "name": "heart of order",
+    "description": "originating from the shivering isle during a graymarch. one of the rare curios sold by khajiit trade caravans.",
+    "good-effects": [
+      "Restore Health",
+      "Fortify Health",
+      "Fortify One-handed",
+      "Fortify Two-handed"
+    ],
+    "image": "https://images.uesp.net/5/5f/SR-ingredient-Heart_of_Order.jpg"
+  },
+  {
     "id": "",
     "name": "",
     "description": "",
     "good-effects": [
-  
+
     ],
     "bad-effects": [
-  
+
     ],
     "image": ""
   }
 
 ]
 
-{
-  "id": "",
-  "name": "",
-  "description": "",
-  "good-effects": [
-
-  ],
-  "bad-effects": [
-
-  ],
-  "image": ""
-}
