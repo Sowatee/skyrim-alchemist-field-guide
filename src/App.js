@@ -1,8 +1,10 @@
 import './App.css';
-
+import IngredientsList from './components/IngredientsList';
 function App() {
   return (
-    <div><h2>hello world</h2></div>
+    <>
+      <IngredientsList />
+    </>
   );
 }
 
