@@ -709,8 +709,9 @@
     "image": "https://images.uesp.net/6/6d/SR-ingredient-Hawk_Feathers.jpg"
   },
   {
-    "id": "Hawk's Egg",
-    "name": "xx00f1cc",
+    "id": "xx00f1cc",
+    "name": "Hawk's Egg",
+    
     "description": "harvested from hawk nests.",
     "good-effects": [
       "Resist Magic",
