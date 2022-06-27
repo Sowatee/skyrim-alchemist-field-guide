@@ -3,20 +3,25 @@ import styled from "styled-components";
 // import data from '../data/alchemy-ingredients';
 
 // { name, description, goodEffects, badEffects, image }
-export default function Ingredient() {
+export default function Ingredient(item) {
   return (
     <Wrapper>
-      <img src="https://images.uesp.net/4/4a/SR-flora-Nirnroot.jpg" alt="Nirnroot" />
+      <img src={item.image} alt={item.name} />
       <footer>
-        <h2>Nirnroot</h2>
-        <p>Harvested from Nirnroot, found near bodies of water throughout Skyrim. Also respawns at the Sarethi Farm.</p>
+        <h2>{item.name}</h2>
+        <p>{item.description}</p>
         <div className="buttons">
-          <button className="healthy">Restore Stamina</button>
-          <button className="healthy">Fortify Sneak</button>
-          <button className="danger">Weakness to Fire</button>
-          <button className="danger">Fear</button>
+          {
+            item['good-effects'] && item['good-effects'].map((effect) => {
+              return <button className="healthy">{effect}</button>
+            })
+          }
+          {
+            item['bad-effects'] && item['bad-effects'].map((effect) => {
+              return <button className="danger">{effect}</button>
+            })
+          }
         </div>
-
       </footer>
     </Wrapper>
   )
