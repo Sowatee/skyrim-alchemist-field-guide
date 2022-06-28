@@ -1,11 +1,25 @@
 import React from "react";
 import styled from "styled-components";
-// import data from '../data/alchemy-ingredients';
+import { v4 as uuidv4 } from 'uuid';
+import { useGlobalContext } from "../context";
 
-// { name, description, goodEffects, badEffects, image }
 export default function Ingredient(item) {
+  const { filterIngredientsByClick } = useGlobalContext();
+  const effects = [];
+
+  if (item['good-effects']) {
+    for (let effect of item['good-effects']) {
+      effects.push(effect.toLowerCase());
+    }
+  }
+  if (item['bad-effects']) {
+    for (let effect of item['bad-effects']) {
+      effects.push(effect.toLowerCase());
+    }
+  }
+
   return (
-    <Wrapper>
+    <Wrapper onClick={() => filterIngredientsByClick(effects, item)}>
       <img src={item.image} alt={item.name} />
       <footer>
         <h2>{item.name}</h2>
@@ -13,12 +27,12 @@ export default function Ingredient(item) {
         <div className="buttons">
           {
             item['good-effects'] && item['good-effects'].map((effect) => {
-              return <button className="healthy">{effect}</button>
+              return <button className="healthy" key={uuidv4()}>{effect}</button>
             })
           }
           {
             item['bad-effects'] && item['bad-effects'].map((effect) => {
-              return <button className="danger">{effect}</button>
+              return <button className="danger" key={uuidv4()}>{effect}</button>
             })
           }
         </div>
@@ -39,6 +53,9 @@ const Wrapper = styled.article`
   letter-spacing: .1rem;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   background: #fff;
+  &:hover {
+    cursor: pointer;
+  }
 
   img {
     max-width: 100%;
