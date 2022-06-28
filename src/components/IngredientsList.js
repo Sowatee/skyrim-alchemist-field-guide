@@ -1,16 +1,28 @@
 import React from "react";
-import data from '../data/alchemy-ingredients.json';
 import Ingredient from './Ingredient';
+import styled from 'styled-components';
+import { v4 as uuidv4 } from 'uuid';
+import { useGlobalContext } from "../context";
 
 export default function IngredientsList() {
+  const { ingredients } = useGlobalContext();
+
   return (
-    <>
+    <Wrapper>
       {
-        Object.entries(data).map((item) => {
-          return <Ingredient key={item[1].id} {...item[1]} />
+        ingredients.map((item) => {
+          return <Ingredient key={uuidv4()} {...item} />
         })
       }
-    </>
+    </Wrapper>
 
   );
 }
+
+const Wrapper = styled.div`
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+`
