@@ -1,6 +1,5 @@
 [
   {
-    "id": "00106e1b",
     "name": "Abecean Longfin",
     "description": "Collected by catching Abecean Longfin fish.",
     "good-effects": [
@@ -14,7 +13,6 @@
     "image": "https://images.uesp.net/5/5c/SR-ingredient-Abacean_Longfin.jpg"
   },
   {
-    "id": "xx0059ba",
     "name": "Ancestor Moth Wing",
     "description": "Collected by catching Ancestor Moths",
     "good-effects": [
@@ -28,7 +26,7 @@
     "image": "https://images.uesp.net/1/16/SR-ingredient-Ancestor_Wing.jpg"
   },
   {
-    "id": "xx01cd74",
+
     "name": "Ash Creep Cluster",
     "description": "Harvested from creep cluster plants unique to Solstheim",
     "good-effects": [
@@ -42,7 +40,7 @@
     "image": "https://images.uesp.net/d/d6/SR-flora-Creep_Cluster_2.jpg"
   },
   {
-    "id": "xx01cd71",
+
     "name": "Ash Hopper Jelly",
     "description": "Collected from dead ash hoppers",
     "good-effects": [
@@ -56,7 +54,7 @@
     "image": "https://images.uesp.net/6/62/SR-ingredient-Ash_Hopper_Jelly.jpg"
   },
   {
-    "id": "xx016e26",
+
     "name": "Ashen Grass Pod",
     "description": "Harvested from spiky grass plants unique to Solstheim",
     "good-effects": [
@@ -70,7 +68,7 @@
     "image": "https://images.uesp.net/3/36/SR-flora-Spiky_Grass_2.jpg"
   },
   {
-    "id": "0006bc02",
+ 
     "name": "Bear Claws",
     "description": "Collected from various types of dead bears.",
     "good-effects": [
@@ -84,7 +82,7 @@
     "image": "https://images.uesp.net/9/95/SR-ingredient-Bear_Claws.jpg"
   },
   {
-    "id": "000a9195",
+
     "name": "Bee",
     "description": "Collected from beehives and by catching bees.",
     "good-effects": [
@@ -98,7 +96,7 @@
     "image": "https://images.uesp.net/9/9a/SR-ingredient-Bee.jpg"
   },
   {
-    "id": "000a9191",
+  
     "name": "Beehive Husk",
     "description": "Collected from beehives.",
     "good-effects": [
@@ -110,7 +108,7 @@
     "image": "https://images.uesp.net/3/32/SR-flora-Beehive.jpg"
   },
   {
-    "id": "0004da20",
+ 
     "name": "Bleeding Crown",
     "description": "Harvested from Bleeding Crown, a mushroom found in various caves",
     "good-effects": [
@@ -124,7 +122,7 @@
     "image": "https://images.uesp.net/0/08/SR-flora-Bleeding_Crown_Plant.jpg"
   },
   {
-    "id": "0004da25",
+ 
     "name": "Blisterwort",
     "description": "Harvested from Blisterwort mushrooms found in various caves.",
     "good-effects": [
@@ -138,7 +136,7 @@
     "image": "https://images.uesp.net/7/7f/SR-flora-Blisterwort_Cluster.jpg"
   },
   {
-    "id": "000727de",
+   
     "name": "Blue Butterfly Wing",
     "description": "Collected by catching blue butterflies. Often found during daylight hours near flowering plants.",
     "good-effects": [
@@ -152,7 +150,7 @@
     "image": "https://images.uesp.net/3/36/SR-ingredient-Blue_Butterfly.jpg"
   },
   {
-    "id": "000e4f0c",
+  
     "name": "Blue Dartwing",
     "description": "Collected by catching dragonflies found near rivers and streams below the snow line.",
     "good-effects": [
@@ -166,7 +164,7 @@
     "image": "https://images.uesp.net/8/86/SR-ingredient-Blue_Dartwing.jpg"
   },
   {
-    "id": "00077e1c",
+   
     "name": "Blue Mountain Flower",
     "description": "Harvested from the blue variety of Mountain Flower, found throughout Skyrim.",
     "good-effects": [
@@ -180,7 +178,7 @@
     "image": "https://images.uesp.net/9/97/SR-flora-Blue_Mountain_Flower.jpg"
   },
   {
-    "id": "xx01cd6f",
+   
     "name": "Boar Tusk",
     "description": "Collected from dead bristlebacks and rieklings.",
     "good-effects": [
@@ -194,7 +192,7 @@
     "image": "https://images.uesp.net/6/6f/SR-creature-Bristleback.jpg"
   },
   {
-    "id": "00034cdd",
+  
     "name": "Bone Meal",
     "description": "Collected from undead such as skeletons, and Draugr.",
     "good-effects": [
@@ -208,7 +206,7 @@
     "image": "https://images.uesp.net/8/89/SR-ingredient-Bone_Meal.jpg"
   },
   {
-    "id": "0003ad61",
+   
     "name": "Briar Heart",
     "description": "Collected from Forsworn Briarhearts.",
     "good-effects": [
@@ -222,7 +220,7 @@
     "image": "https://images.uesp.net/b/be/SR-ingredient-Briar_Heart.jpg"
   },
   {
-    "id": "xx01cd6e",
+   
     "name": "Burnt Spriggan Wood",
     "description": "Collected from dead burnt spriggans.",
     "good-effects": [
@@ -236,7 +234,7 @@
     "image": "https://images.uesp.net/2/2c/SR-creature-Burnt_Spriggan.jpg"
   },
   {
-    "id": "000727e0",
+   
     "name": "Butterfly Wing",
     "description": "Collected from catching monarch butterflies. Often found during daylight hours near flowering plants.",
     "good-effects": [
@@ -250,7 +248,7 @@
     "image": "https://images.uesp.net/3/3d/SR-ingredient-Monarch_Butterfly.jpg"
   },
   {
-    "id": "0006abcb",
+   
     "name": "Canis Root",
     "description": "Harvested from Canis Root, found in The Rift and Hjaalmarch.",
     "good-effects": [
@@ -264,7 +262,7 @@
     "image": "https://images.uesp.net/d/d8/SR-flora-Canis-Root.jpg"
   },
   {
-    "id": "00052695",
+
     "name": "Charred Skeever Hide",
     "description": "Food, and collected from dead skeevers found on roasting spits.",
     "good-effects": [
@@ -276,7 +274,7 @@
     "image": "https://images.uesp.net/8/8f/SR-ingredient-Charred_Skeever_Hide.jpg"
   },
   {
-    "id": "0003ad56",
+   
     "name": "Chaurus Eggs",
     "description": "Collected from chaurus egg sacs, found in falmer caves.",
     "good-effects": [
@@ -290,7 +288,7 @@
     "image": "https://images.uesp.net/e/e1/SR-ingredient-Chaurus_Eggs.jpg"
   },
   {
-    "id": "xx0183b7",
+   
     "name": "Chaurus Hunter Antennae",
     "description": "Collected from dead chaurus hunters and chaurus hunter fledglings.",
     "good-effects": [
@@ -304,7 +302,7 @@
     "image": "https://images.uesp.net/1/10/SR-ingredient-Chaurus_Hunter.jpg"
   },
   {
-    "id": "00023d77",
+   
     "name": "Chicken's Egg",
     "description": "Food, harvested from chicken nests in various farms.",
     "good-effects": [
@@ -318,7 +316,7 @@
     "image": "https://images.uesp.net/a/ad/SR-ingredient-Chicken%27s_Egg.jpg"
   },
   {
-    "id": "000b2183",
+   
     "name": "Creep Cluster",
     "description": "Harvested from creep cluster, found in the volcanic tundra of eastmarch.",
     "good-effects": [
@@ -332,7 +330,7 @@
     "image": "https://images.uesp.net/5/54/SR-flora-Creep_Cluster.jpg"
   },
   {
-    "id": "000b701a",
+   
     "name": "Crimson Nirnroot",
     "description": "Harvested from Crimson Nirnroot, found in Blackreach, needed for the quest a return to your roots.",
     "good-effects": [
@@ -346,7 +344,7 @@
     "image": "https://images.uesp.net/4/46/SR-flora-Crimson_Nirnroot.jpg"
   },
   {
-    "id": "00106e19",
+   
     "name": "Cyrodilic Spadetail",
     "description": "collected by catching cyrodilic spadetail fish.",
     "good-effects": [
@@ -360,7 +358,7 @@
     "image": "https://images.uesp.net/a/a7/SR-ingredient-Cyrodilic_Spadetail.jpg"
   },
   {
-    "id": "0003ad5b",
+   
     "name": "Daedra Heart",
     "description": "collected from dead dremora.",
     "good-effects": [
@@ -374,7 +372,7 @@
     "image": "https://images.uesp.net/8/8a/SR-ingredient-Daedra_Heart.jpg"
   },
   {
-    "id": "000516c8",
+   
     "name": "Deathbell",
     "description": "harvested from deathbell, found in Hjaalmarch. needed for the quests few and far between and the only cure.",
     "bad-effects": [
@@ -386,7 +384,7 @@
     "image": "https://images.uesp.net/5/5d/SR-flora-Deathbell.jpg"
   },
   {
-    "id": "000889a2",
+ 
     "name": "Dragon's Tongue",
     "description": "Harvested from Dragon's Tongue, found in the volcanic tundra of Eastmarch.",
     "good-effects": [
@@ -398,7 +396,7 @@
     "image": "https://images.uesp.net/2/29/SR-flora-Dragon%27s_Tongue.jpg"
   },
   {
-    "id": "000f11c0",
+   
     "name": "Dwarven Oil",
     "description": "collected from destroyed dwarven automatons, found in dwarven ruins.",
     "good-effects": [
@@ -412,7 +410,7 @@
     "image": "https://images.uesp.net/1/1f/SR-ingredient-Dwarven_Oil.jpg"
   },
   {
-    "id": "0003ad63",
+   
     "name": "Ectoplasm",
     "description": "collected from undead ghosts.",
     "good-effects": [
@@ -426,7 +424,7 @@
     "image": "https://images.uesp.net/b/b4/SR-ingredient-Ectoplasm.jpg"
   },
   {
-    "id": "00034d31",
+   
     "name": "Elves Ear",
     "description": "Harvested from dried elves ear bunches found in homes and camps.",
     "good-effects": [
@@ -440,7 +438,7 @@
     "image": "https://images.uesp.net/3/37/SR-ingredient-Elves_Ear.jpg"
   },
   {
-    "id": "xx01ff75",
+  
     "name": "Emperor Parasol Moss",
     "description": "Harvested from emperor parasol moss plants near Tel Mithryn.",
     "good-effects": [
@@ -454,7 +452,7 @@
     "image": "https://images.uesp.net/e/ed/SR-flora-Emperor_Parasol_Moss.jpg"
   },
   {
-    "id": "0006bc07",
+    
     "name": "Eye of Sabre Cat",
     "description": "collected from dead sabre cats.",
     "good-effects": [
@@ -468,7 +466,7 @@
     "image": "https://images.uesp.net/0/0f/SR-creature-Sabre_Cat.jpg"
   },
   {
-    "id": "0003ad5d",
+   
     "name": "Falmer Ear",
     "description": "collected from dead falmer.",
     "good-effects": [
@@ -482,7 +480,7 @@
     "image": "https://images.uesp.net/b/b2/SR-ingredient-Falmer_Ear.jpg"
   },
   {
-    "id": "xx03cd8e",
+   
     "name": "Felsaad Tern Feathers",
     "description": "collected from dead felsaad terns",
     "good-effects": [
@@ -494,7 +492,7 @@
     "image": "https://images.uesp.net/9/97/SR-creature-Felsaad_Tern.jpg"
   },
   {
-    "id": "0003ad5e",
+ 
     "name": "Fire Salts",
     "description": "collected from dead flame atronachs, a type of daedra. needed for the quest stoking the flames.",
     "good-effects": [
@@ -508,7 +506,7 @@
     "image": "https://images.uesp.net/c/ce/SR-ingredient-Fire_Salts.jpg"
   },
   {
-    "id": "0004da00",
+  
     "name": "Fly Amanita",
     "description": "harvested from fly amanita mushrooms, found in various caves.",
     "good-effects": [
@@ -522,7 +520,7 @@
     "image": "https://images.uesp.net/8/80/SR-flora-Fly_Amanita_Plant.jpg"
   },
   {
-    "id": "00034d32",
+   
     "name": "Frost Mirriam",
     "description": "harvested from dried frost mirriam bunches found in homes and camps.",
     "good-effects": [
@@ -536,7 +534,7 @@
     "image": "https://images.uesp.net/7/7b/SR-ingredient-Dried_Frost_Mirram.jpg"
   },
   {
-    "id": "0003ad5f",
+  
     "name": "Frost Salts",
     "description": "collected from dead frost atronachs, a type of daedra.",
     "good-effects": [
@@ -550,7 +548,7 @@
     "image": "https://images.uesp.net/f/fd/SR-ingredient-Frost_Salts.jpg"
   },
   {
-    "id": "00034d22",
+  
     "name": "Garlic",
     "description": "Food. can also be harvested from garlic braids.",
     "good-effects": [
@@ -562,7 +560,7 @@
     "image": "https://images.uesp.net/a/ad/SR-ingredient-Garlic.jpg"
   },
   {
-    "id": "0007e8c1",
+   
     "name": "Giant Lichen",
     "description": "harvested from giant lichen, found in hjaalmarch.",
     "good-effects": [
@@ -576,7 +574,7 @@
     "image": "https://images.uesp.net/1/19/SR-flora-Giant_Lichen.jpg"
   },
   {
-    "id": "0003ad64",
+  
     "name": "Giant's Toe",
     "description": "collected from dead giants, which can be found in giant camps.",
     "good-effects": [
@@ -590,7 +588,7 @@
     "image": "https://images.uesp.net/2/24/SR-ingredient-Giant%27s_Toe.jpg"
   },
   {
-    "id": "xx00b097",
+   
     "name": "Gleamblossom",
     "description": "Harvested from the plant of the same name.",
     "good-effects": [
@@ -604,7 +602,7 @@
     "image": "https://images.uesp.net/a/a4/SR-flora-Gleamblossom.jpg"
   },
   {
-    "id": "0003ad73",
+   
     "name": "Glow Dust",
     "description": "collected from dead wisps and wispmothers.",
     "good-effects": [
@@ -618,7 +616,7 @@
     "image": "https://images.uesp.net/b/b9/SR-ingredient-Glow_Dust.jpg"
   },
   {
-    "id": "0007ee01",
+  
     "name": "Glowing Mushroom",
     "description": "harvested from glowing mushrooms, found in various caves.",
     "good-effects": [
@@ -630,7 +628,7 @@
     "image": "https://images.uesp.net/6/68/SR-flora-Glowing_Mushroom.jpg"
   },
   {
-    "id": "00083e64",
+ 
     "name": "Grass Pod",
     "description": "harvested from spiky grass, found in northern regions of skyrim.",
     "good-effects": [
@@ -643,7 +641,7 @@
     "image": "https://images.uesp.net/2/2c/SR-flora-Spiky_Grass.jpg"
   },
   {
-    "id": "0006b689",
+   
     "name": "Hagraven Claw",
     "description": "collected from dead hagravens.",
     "good-effects": [
@@ -657,7 +655,7 @@
     "image": "https://images.uesp.net/d/d3/SR-ingredient-Hagraven_Claw.jpg"
   },
   {
-    "id": "0003ad66",
+  
     "name": "Hagraven Feathers",
     "description": "collected from dead hagravens. can also be found scattered around their sleeping areas.",
     "good-effects": [
@@ -671,7 +669,7 @@
     "image": "https://images.uesp.net/5/5b/SR-ingredient-Hagraven_Feathers.jpg"
   },
   {
-    "id": "00057f91",
+   
     "name": "Hanging Moss",
     "description": "harvested from hanging moss",
     "good-effects": [
@@ -685,7 +683,7 @@
     "image": "https://images.uesp.net/9/9f/SR-flora-Hanging_Moss.jpg"
   },
   {
-    "id": "000e7ebc",
+  
     "name": "Hawk Beak",
     "description": "collected from dead hawks.",
     "good-effects": [
@@ -697,7 +695,7 @@
     "image": "https://images.uesp.net/6/64/SR-ingredient-Hawk_Beak.jpg"
   },
   {
-    "id": "000e7ed0",
+   
     "name": "Hawk Feathers",
     "description": "collected from dead hawks.",
     "good-effects": [
@@ -709,7 +707,7 @@
     "image": "https://images.uesp.net/6/6d/SR-ingredient-Hawk_Feathers.jpg"
   },
   {
-    "id": "xx00f1cc",
+  
     "name": "Hawk's Egg",
     
     "description": "harvested from hawk nests.",
@@ -724,7 +722,7 @@
     "image": "https://images.uesp.net/2/29/SR-ingredient-Hawk%27s_Egg.jpg"
   },
   {
-    "id": "00106e18",
+   
     "name": "Histcarp",
     "description": "collected by catching histcarp fish.",
     "good-effects": [
@@ -738,7 +736,7 @@
     "image": "https://images.uesp.net/6/64/SR-ingredient-Histcarp.jpg"
   },
   {
-    "id": "000b08c5",
+   
     "name": "Honeycomb",
     "description": "food. collected from beehives.",
     "good-effects": [
@@ -752,7 +750,7 @@
     "image": "https://images.uesp.net/d/dd/SR-ingredient-Honeycomb.jpg"
   },
   {
-    "id": "001016b3",
+   
     "name": "Human Flesh",
     "description": "Cannot be harvested or collected; with the Dawnguard add-on installed, several respawning samples can be found in Volkihar Keep.",
     "good-effects": [
@@ -766,7 +764,7 @@
     "image": "https://images.uesp.net/c/c3/SR-ingredient-Human_Flesh.jpg"
   },
   {
-    "id": "000b18cd",
+   
     "name": "Human Heart",
     "description": "Cannot be harvested or collected; limited number of samples available.",
     "bad-effects": [
@@ -778,7 +776,7 @@
     "image": "https://images.uesp.net/e/e3/SR-ingredient-Human_Heart.jpg"
   },
   {
-    "id": "0003ad6a",
+   
     "name": "Ice Wraith Teeth",
     "description": "collected from ice wraiths. needed for the quest ice cold.",
     "good-effects": [
@@ -792,7 +790,7 @@
     "image": "https://images.uesp.net/5/59/SR-ingredient-Ice_Wraith_Teeth.jpg"
   },
   {
-    "id": "0004da23",
+   
     "name": "Imp Stool",
     "description": "harvested from imp stool mushrooms, found in various caves.",
     "good-effects": [
@@ -806,7 +804,7 @@
     "image": "https://images.uesp.net/d/d8/SR-flora-Imp_Stool.jpg"
   },
   {
-    "id": "0006ac4a",
+  
     "name": "Jazbay Grapes",
     "description": "harvested from jazbay vines, found in the volcanic tundra of eastmarch. needed for the quest smooth jazbay.",
     "good-effects": [
@@ -820,7 +818,7 @@
     "image": "https://images.uesp.net/9/9a/SR-flora-Jazbay_Plant.jpg"
   },
   {
-    "id": "0005076e",
+   
     "name": "Juniper Berries",
     "description": "Harvested from juniper shrubs, common in the reach. needed for the quest elmus favor quest",
     "good-effects": [
@@ -834,7 +832,7 @@
     "image": "https://images.uesp.net/1/18/SR-flora-Juniper.jpg"
   },
   {
-    "id": "0006bc0a",
+    
     "name": "Large Antlers",
     "description": "collected from dead male elk",
     "good-effects": [
@@ -848,7 +846,7 @@
     "image": "https://images.uesp.net/8/83/SR-ingredient-Large_Antlers.jpg"
   },
   {
-    "id": "00045c28",
+  
     "name": "Lavender",
     "description": "harvested from lavender, most common in whiterun hold.",
     "good-effects": [
@@ -862,7 +860,7 @@
     "image": "https://images.uesp.net/c/c0/SR-flora-Lavender_Plant.jpg"
   },
   {
-    "id": "000727df",
+    
     "name": "Luna Moth Wing",
     "description": "collected by catching luna moths. often found near flowers after dark.",
     "good-effects": [
@@ -876,7 +874,7 @@
     "image": "https://images.uesp.net/0/0e/SR-ingredient-Luna_Moth.jpg"
   },
   {
-    "id": "000d8e3f",
+    
     "name": "Moon Sugar",
     "description": "cannot be collected or harvested. can be purchased from the khajiit traders.",
     "good-effects": [
@@ -890,7 +888,7 @@
     "image": "https://images.uesp.net/9/94/SR-ingredient-Moon_Sugar.jpg"
   },
   {
-    "id": "000ec870",
+   
     "name": "Mora Tapinella",
     "description": "Harvested from Mora Tapinella mushrooms, found growing on dead trees.",
     "good-effects": [
@@ -904,7 +902,7 @@
     "image": "https://images.uesp.net/c/c8/SR-flora-Mora_Tapinella.jpg"
   },
   {
-    "id": "0006bc00",
+   
     "name": "Mudcrab Chitin",
     "description": "Collected from dead Mudcrabs, found in or near bodies of water.",
     "good-effects": [
@@ -916,7 +914,7 @@
     "image": "https://images.uesp.net/7/7d/SR-ingredient-Mudcrab_Chitin.jpg"
   },
   {
-    "id": "0004da24",
+   
     "name": "Namira's Rot",
     "description": "Harvested from Namira's Rot mushrooms, found in various caves.",
     "good-effects": [
@@ -930,7 +928,7 @@
     "image": "https://images.uesp.net/5/58/SR-flora-Namira%27s_Rot.jpg"
   },
   {
-    "id": "xx01cd72",
+    
     "name": "Netch Jelly",
     "description": "collected from dead netch.",
     "good-effects": [
@@ -944,7 +942,7 @@
     "image": "https://images.uesp.net/b/b0/SR-creature-Bull_Netch.jpg"
   },
   {
-    "id": "xx042A41",
+  
     "name": "Nightshade",
     "description": "Harvested from Nightshade, found growing throughout Skyrim.",
     "good-effects": [
@@ -958,7 +956,7 @@
     "image": "https://images.uesp.net/8/83/SR-flora-Nightshade.jpg"
   },
   {
-    "id": "00059b86",
+    
     "name": "Nirnroot",
     "description": "Harvested from Nirnroot, found near bodies of water throughout Skyrim. Also respawns at the Sarethi Farm.",
     "good-effects": [
@@ -972,7 +970,7 @@
     "image": "https://images.uesp.net/4/4a/SR-flora-Nirnroot.jpg"
   },
   {
-    "id": "0007edf5",
+   
     "name": "Nordic Barnacle",
     "description": "harvested from nordic barnacle clusters, found in or near water.",
     "good-effects": [
@@ -986,7 +984,7 @@
     "image": "https://images.uesp.net/a/a0/SR-ingredient-Nordic_Barnacle_Cluster.jpg"
   },
   {
-    "id": "000bb956",
+   
     "name": "Orange Dartwing",
     "description": "collected by catching dragonflies found near rivers and streams below the snow line.",
     "good-effects": [
@@ -1000,7 +998,7 @@
     "image": "https://images.uesp.net/6/6f/SR-ingredient-OrangeDartwing.jpg"
   },
   {
-    "id": "000854fe",
+   
     "name": "Pearl",
     "description": "they can be harvested from Pearl Oysters in solstheim.",
     "good-effects": [
@@ -1012,7 +1010,7 @@
     "image": "https://images.uesp.net/4/4d/SR-ingredient-Pearl.jpg"
   },
   {
-    "id": "00023d6f",
+   
     "name": "Pine Thrush Egg",
     "description": "Harvested from bird nests in forested regions, in particular the rift.",
     "good-effects": [
@@ -1026,7 +1024,7 @@
     "image": "https://images.uesp.net/7/78/SR-ingredient-Pine_Thrush_Egg.jpg"
   },
   {
-    "id": "xx0185fb",
+    
     "name": "Poison Bloom",
     "description": "harvested from the plant of the same name.",
     "good-effects": [
@@ -1040,7 +1038,7 @@
     "image": "https://images.uesp.net/1/1b/SR-flora-Poison_Bloom.jpg"
   },
   {
-    "id": "0006bc10",
+   
     "name": "Powdered Mammoth Tusk",
     "description": "cannot be harvested or collected; only readily available after the Merchant perk has been unlocked.",
     "good-effects": [
@@ -1054,7 +1052,7 @@
     "image": "https://images.uesp.net/e/eb/SR-ingredient-Powdered_Mammoth_Tusk.jpg"
   },
   {
-    "id": "00077e1e",
+    
     "name": "Purple Mountain Flower",
     "description": "harvested from the purple variety of mountain flower.",
     "good-effects": [
@@ -1068,7 +1066,7 @@
     "image": "https://images.uesp.net/9/9f/SR-flora-Purple_Mountain_Flower_Plant.jpg"
   },
   {
-    "id": "00077e1d",
+   
     "name": "Red Mountain Flower",
     "description": "Harvested from the red variety of mountain flower.",
     "good-effects": [
@@ -1082,7 +1080,7 @@
     "image": "https://images.uesp.net/b/b7/SR-flora-Mountain_Flower.jpg"
   },
   {
-    "id": "00106e1a",
+   
     "name": "River Betty",
     "description": "collected by catching river betty fish.",
     "good-effects": [
@@ -1096,7 +1094,7 @@
     "image": "https://images.uesp.net/4/4c/SR-item-River_Betty.jpg"
   },
   {
-    "id": "0007e8c8",
+    
     "name": "Rock Warbler Egg",
     "description": "harvested from bird nests in rocky regions, in particular the reach.",
     "good-effects": [
@@ -1110,7 +1108,7 @@
     "image": "https://images.uesp.net/b/bb/SR-ingredient-Rock_Warbler_Egg.jpg"
   },
   {
-    "id": "0006bc04",
+   
     "name": "Sabre Cat Tooth",
     "description": "collected from dead sabre cats.",
     "good-effects": [
@@ -1124,7 +1122,7 @@
     "image": "https://images.uesp.net/c/cd/SR-ingredient-Sabre_Cat_Tooth.jpg"
   },
   {
-    "id": "xx003545",
+   
     "name": "Salmon Roe",
     "description": "harvested from jumping salmon.",
     "good-effects": [
@@ -1136,7 +1134,7 @@
     "image": "https://images.uesp.net/d/dd/SR-ingredient-Salmon_Roe.jpg"
   },
   {
-    "id": "00074a19",
+  
     "name": "Salt Pile",
     "description": "Food. cannot be harvested or collected, but commonly found in barrels and sacks.",
     "good-effects": [
@@ -1150,7 +1148,7 @@
     "image": "https://images.uesp.net/3/3b/SR-ingredient-Salt_Pile.jpg"
   },
   {
-    "id": "0006f950",
+   
     "name": "Scaly Pholiota",
     "description": "Harvested from Scaly Pholiota mushrooms, found growing ono dead trees.",
     "good-effects": [
@@ -1164,7 +1162,7 @@
     "image": "https://images.uesp.net/a/a4/SR-flora-Scaly_Pholiota.jpg"
   },
   {
-    "id": "xx017e97",
+  
     "name": "Scathecraw",
     "description": "harvested from scathecraw plants.",
     "bad-effects": [
@@ -1176,7 +1174,7 @@
     "image": "https://images.uesp.net/a/a8/SR-flora-Scathecraw.jpg"
   },
   {
-    "id": "00106e1c",
+   
     "name": "Silverside Perch",
     "description": "collected by catching silverside perch fish.",
     "good-effects": [
@@ -1190,7 +1188,7 @@
     "image": "https://images.uesp.net/2/2e/SR-ingredient-Silverside_Perch.jpg"
   },
   {
-    "id": "0003ad6f",
+  
     "name": "Skeever Tail",
     "description": "collected from dead skeevers.",
     "good-effects": [
@@ -1204,7 +1202,7 @@
     "image": "https://images.uesp.net/b/bc/SR-creature-Skeever.jpg"
   },
   {
-    "id": "0007e8c5",
+   
     "name": "Slaughterfish Egg",
     "description": "collected from slaughterfish egg nests, found in or near water",
     "good-effects": [
@@ -1218,7 +1216,7 @@
     "image": "https://images.uesp.net/6/69/SR-ingredient-Slaughterfish_Egg_Nest.jpg"
   },
   {
-    "id": "0003ad70",
+   
     "name": "Slaughterfish Scales",
     "description": "collected from dead slaughterfish",
     "good-effects": [
@@ -1232,7 +1230,7 @@
     "image": "https://images.uesp.net/1/14/SR-ingredient-Slaughterfish_Scales.jpg"
   },
   {
-    "id": "0006bc0b",
+    
     "name": "Small Antlers",
     "description": "collected from dead female elk.",
     "good-effects": [
@@ -1246,7 +1244,7 @@
     "image": "https://images.uesp.net/7/79/SR-ingredient-Small_Antlers.jpg"
   },
   {
-    "id": "00085500",
+   
     "name": "Small Pearl",
     "description": "they can be harvested from pearl oysters in solstheim.",
     "good-effects": [
@@ -1258,7 +1256,7 @@
     "image": "https://images.uesp.net/d/d5/SR-ingredient-Small_Pearl.jpg"
   },
   {
-    "id": "0001b3bd",
+  
     "name": "Snowberries",
     "description": "harvested from snowberry bushes, found in snowy regions of skyrim.",
     "good-effects": [
@@ -1270,7 +1268,7 @@
     "image": "https://images.uesp.net/5/5e/SR-flora-Snowberries.jpg"
   },
   {
-    "id": "xx01cd6d",
+   
     "name": "Spawn Ash",
     "description": "collected from dead ash spawn.",
     "good-effects": [
@@ -1284,7 +1282,7 @@
     "image": "https://images.uesp.net/2/29/SR-ingredient-Spawn_Ash.jpg"
   },
   {
-    "id": "0009151b",
+  
     "name": "Spider Egg",
     "description": "collected from spider egg sacs and web sacs.",
     "good-effects": [
@@ -1298,7 +1296,7 @@
     "image": "https://images.uesp.net/a/a5/SR-ingredient-Spider_Eggs.jpg"
   },
   {
-    "id": "00063b5f",
+  
     "name": "Spriggan Sap",
     "description": "cannot be harvested or collected; best source is merchants.",
     "good-effects": [
@@ -1312,7 +1310,7 @@
     "image": "https://images.uesp.net/2/27/SR-ingredient-Spriggan_Sap.jpg"
   },
   {
-    "id": "0007e8b7",
+  
     "name": "Swamp Fungal Pod",
     "description": "harvested from swamp fungal pod, common in the tundra marsh of hjaalmarch.",
     "good-effects": [
@@ -1326,7 +1324,7 @@
     "image": "https://images.uesp.net/7/7c/SR-flora-Swamp_Fungal_Pod.jpg"
   },
   {
-    "id": "0003ad71",
+  
     "name": "Taproot",
     "description": "collected from dead spriggans.",
     "good-effects": [
@@ -1340,7 +1338,7 @@
     "image": "https://images.uesp.net/3/3c/SR-ingredient-Taproot.jpg"
   },
   {
-    "id": "000134aa",
+    
     "name": "Thistle Branch",
     "description": "harvested from thistle.",
     "good-effects": [
@@ -1354,7 +1352,7 @@
     "image": "https://images.uesp.net/2/22/SR-flora-Thistle.jpg"
   },
   {
-    "id": "0004da73",
+   
     "name": "Torchbug Thorax",
     "description": "collected by catching torchbugs. found below the snowline after dark.",
     "good-effects": [
@@ -1368,7 +1366,7 @@
     "image": "https://images.uesp.net/6/6d/SR-ingredient-Torchbug.jpg"
   },
   {
-    "id": "xx017008",
+  
     "name": "Trama Root",
     "description": "harvested from trama root plants.",
     "good-effects": [
@@ -1382,7 +1380,7 @@
     "image": "https://images.uesp.net/5/52/SR-flora-Trama_Root.jpg"
   },
   {
-    "id": "0003ad72",
+   
     "name": "Troll Fat",
     "description": "collected from dead trolls.",
     "good-effects": [
@@ -1396,7 +1394,7 @@
     "image": "https://images.uesp.net/4/44/SR-ingredient-Troll_Fat.jpg"
   },
   {
-    "id": "0003f7f8",
+   
     "name": "Tundra Cotton",
     "description": "harvested from tundra cotton, found in whiterun hold.",
     "good-effects": [
@@ -1408,7 +1406,7 @@
     "image": "https://images.uesp.net/6/67/SR-flora-Tundra_Cotton_Plant.jpg"
   },
   {
-    "id": "0003ad76",
+ 
     "name": "Vampire Dust",
     "description": "collected from dead vampires.",
     "good-effects": [
@@ -1420,7 +1418,7 @@
     "image": "https://images.uesp.net/e/e3/SR-ingredient-Vampire_Dust.jpg"
   },
   {
-    "id": "0003ad60",
+    
     "name": "Void Salts",
     "description": "collected from dead storm atronachs.",
     "good-effects": [
@@ -1434,7 +1432,7 @@
     "image": "https://images.uesp.net/6/61/SR-ingredient-Void_Salts.jpg"
   },
   {
-    "id": "0004b0ba",
+   
     "name": "Wheat",
     "description": "food. harvested from wheat bushels, found in various farms.",
     "good-effects": [
@@ -1448,7 +1446,7 @@
     "image": "https://images.uesp.net/a/a8/SR-flora-Wheat.jpg"
   },
   {
-    "id": "0004da22",
+   
     "name": "White Cap",
     "description": "harvested from white cap mushrooms, found in variousu caves.",
     "good-effects": [
@@ -1462,7 +1460,7 @@
     "image": "https://images.uesp.net/6/60/SR-flora-White_Cap.jpg"
   },
   {
-    "id": "0006bc0e",
+   
     "name": "Wisp Wrappings",
     "description": "collected from dead wispmothers.",
     "good-effects": [
@@ -1474,7 +1472,7 @@
     "image": "https://images.uesp.net/c/c1/SR-creature-Wispmother.jpg"
   },
   {
-    "id": "xx002a78",
+   
     "name": "Yellow Mountain Flower",
     "description": "harvested from the yellow variety of mountain flower.",
     "good-effects": [
@@ -1488,7 +1486,7 @@
     "image": "https://images.uesp.net/a/ab/SR-flora-Yellow_Mountain_Flower.jpg"
   },
   {
-    "id": "FExxxD62",
+    
     "name": "Alocasia Fruit",
     "description": "Originating from the Shivering Isle. One of the rare curious sold by khajiit trade caravans.",
     "good-effects": [
@@ -1502,7 +1500,7 @@
     "image": "https://images.uesp.net/9/99/SR-ingredient-Alocasia_Fruit.jpg"
   },
   {
-    "id": "FExxx836",
+    
     "name": "Ambrosia",
     "description": "Originating from Mankar Camoran's destroyed realm of Oblivion. One of the rare curious sold by khajiit trade caravans.",
     "good-effects": [
@@ -1514,7 +1512,7 @@
     "image": "https://images.uesp.net/f/f2/SR-ingredient-Ambrosia.jpg"
   },
   {
-    "id": "xx0008EB",
+    
     "name": "Angelfish",
     "description": "caught by fishing in temperate lakes with an alik'ri rod, or in the ancestor glade.",
     "good-effects": [
@@ -1526,7 +1524,7 @@
     "image": "https://images.uesp.net/f/fa/SR-ingredient-Angelfish.png"
   },
   {
-    "id": "xx0008F0",
+    
     "name": "Angler Larvae",
     "description": "caught by fishing in freezing waters.",
     "good-effects": [
@@ -1540,7 +1538,7 @@
     "image": "https://images.uesp.net/3/3a/SR-ingredient-Angler_Larvae.jpg"
   },
   {
-    "id": "FExxD66",
+   
     "name": "Aster Bloom Core",
     "description": "Originating from the Shivering Isle. One of the rare curious sold by khajiit trade caravans.",
     "good-effects": [
@@ -1554,7 +1552,7 @@
     "image": "https://images.uesp.net/6/62/SR-ingredient-Aster_Bloom_Core.jpg"
   },
   {
-    "id": "FExxD68",
+    
     "name": "Bittergreen Petals",
     "description": "Originating from Vvardenfell. One of the rare curious sold by khajiit trade caravans.",
     "good-effects": [
@@ -1568,7 +1566,7 @@
     "image": "https://images.uesp.net/c/ce/SR-ingredient-Bittergreen_Petals.jpg"
   },
   {
-    "id": "FExxx822",
+   
     "name": "Blind Watcher's Eye",
     "description": "Originating from the Shivering Isle. One of the rare curious sold by khajiit trade caravans.",
     "good-effects": [
@@ -1580,7 +1578,7 @@
     "image": "https://images.uesp.net/3/38/SR-ingredient-Blind_Watcher%27s_Eye.jpg"
   },
   {
-    "id": "xx059155",
+  
     "name": "Bliss Bug Thorax",
     "description": "Harvested from Bliss Bugs. The majority of them can be found within the Solitude Sewers.",
     "good-effects": [
@@ -1594,7 +1592,7 @@
     "image": "https://images.uesp.net/4/48/SR-creature-Bliss_Bug.jpg"
   },
   {
-    "id": "FExxxD6A",
+   
     "name": "Blister Pod Cap",
     "description": "Originating from the Shivering Isle. One of the rare curious sold by khajiit trade caravans.",
     "good-effects": [
@@ -1606,7 +1604,7 @@
     "image": "https://images.uesp.net/c/c9/SR-ingredient-Blister_Pod_Cap.jpg"
   },
   {
-    "id": "xx024C13",
+ 
     "name": "Bloodgrass",
     "description": "Harvested from the Deadlands, if one has The Cause to go there.",
     "good-effects": [
@@ -1620,7 +1618,7 @@
     "image": "https://images.uesp.net/a/a8/SR-ingredient-Bloodgrass.png"
   },
   {
-    "id": "FExxxD6C",
+   
     "name": "Bog Beacon",
     "description": "Originating from Cyrodiil. One of the rare curious sold by khajiit trade caravans.",
     "good-effects": [
@@ -1634,7 +1632,7 @@
     "image": "https://images.uesp.net/f/f2/SR-ingredient-Bog_Beacon.jpg"
   },
   {
-    "id": "FExxx802",
+   
     "name": "Bungler's Bane",
     "description": "Originating from Vvardenfell. One of the rare curious sold by khajiit trade caravans.",
     "good-effects": [
@@ -1648,7 +1646,7 @@
     "image": "https://images.uesp.net/9/95/SR-ingredient-Bungler%27s_Bane.jpg"
   },
   {
-    "id": "FExxx838",
+   
     "name": "Chokeberry",
     "description": "Originating from the vile lair of a Cyrodiilic vampire assassin. One of the rare curious sold by khajiit trade caravans.",
     "bad-effects": [
@@ -1660,7 +1658,7 @@
     "image": "https://images.uesp.net/f/fd/SR-ingredient-Chokeberry.jpg"
   },
   {
-    "id": "FExxx804",
+  
     "name": "Chokeweed",
     "description": "Originating from Vvardenfell. One of the rare curious sold by khajiit trade caravans.",
     "good-effects": [
@@ -1674,7 +1672,7 @@
     "image": "https://images.uesp.net/5/57/SR-ingredient-Chokeweed.jpg"
   },
   {
-    "id": "FExxx805",
+  
     "name": "Coda Flower",
     "description": "Originating from Vvardenfell. One of the rare curious sold by khajiit trade caravans.",
     "good-effects": [
@@ -1688,7 +1686,7 @@
     "image": "https://images.uesp.net/1/12/SR-ingredient-Coda_Flower.jpg"
   },
   {
-    "id": "FExxx806",
+  
     "name": "Comberry",
     "description": "Originating from Vvardenfell. One of the rare curious sold by khajiit trade caravans.",
     "good-effects": [
@@ -1702,7 +1700,7 @@
     "image": "https://images.uesp.net/e/ee/SR-ingredient-Comberry.jpg"
   },
   {
-    "id": "FExxx807",
+ 
     "name": "Congealed Putrescence",
     "description": "Originating from the Shivering Isle. One of the Rare Curios sold by Khajiit trade caravans.",
     "good-effects": [
@@ -1716,7 +1714,7 @@
     "image": "https://images.uesp.net/d/de/SR-ingredient-Congealed_Putrescence.jpg"
   },
   {
-    "id": "FExxx809",
+ 
     "name": "Corkbulb Root",
     "description": "Originating from Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.",
     "good-effects": [
@@ -1730,7 +1728,7 @@
     "image": "https://images.uesp.net/a/a7/SR-ingredient-Corkbulb_Root.jpg"
   },
   {
-    "id": "FExxx80A",
+   
     "name": "Daedra Silk",
     "description": "Originating from the planes of Oblivion. One of the Rare Curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -1744,7 +1742,7 @@
     "image": "https://images.uesp.net/d/d7/SR-ingredient-Daedra_Silk.jpg"
   },
   {
-    "id": "FExxx80B",
+   
     "name": "Daedra Venin",
     "description": "originating from the planes of oblivion. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -1758,7 +1756,7 @@
     "image": "https://images.uesp.net/6/6e/SR-ingredient-Daedra_Venin.jpg"
   },
   {
-    "id": "FExxx826",
+   
     "name": "Daedroth teeth",
     "description": "originating from the planes of oblivion. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -1772,7 +1770,7 @@
     "image": "https://images.uesp.net/f/fe/SR-ingredient-Daedroth_Teeth.jpg"
   },
   {
-    "id": "FExxx827",
+   
     "name": "dreugh wax",
     "description": "originating from vvardenfell's dreughs or cyrodiil's land dreughs. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -1786,7 +1784,7 @@
     "image": "https://images.uesp.net/9/95/SR-ingredient-Dreugh_Wax.jpg"
   },
   {
-    "id": "FExxx828",
+   
     "name": "Elytra Ichor",
     "description": "originating from the shivering isle. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -1800,7 +1798,7 @@
     "image": "https://images.uesp.net/2/24/SR-ingredient-Elytra_Ichor.jpg"
   },
   {
-    "id": "FExxx829",
+  
     "name": "Fire Petal",
     "description": "originating from vvardenfell. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -1814,7 +1812,7 @@
     "image": "https://images.uesp.net/7/72/SR-ingredient-Fire_Petal.jpg"
   },
   {
-    "id": "xx095E23",
+  
     "name": "Flame Stalk",
     "description": "originating from the shivering isle. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -1828,7 +1826,7 @@
     "image": "https://images.uesp.net/f/fe/SR-flora-Flame_Stalk.jpg"
   },
   {
-    "id": "FExxx82B",
+  
     "name": "Fungus Stalk",
     "description": "originating from the shivering isle. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -1840,7 +1838,7 @@
     "image": "https://images.uesp.net/c/c6/SR-ingredient-Fungus_Stalk.jpg"
   },
   {
-    "id": "xx0008EE",
+  
     "name": "Glassfish",
     "description": "caught by fishing in temperate lakes.",
     "good-effects": [
@@ -1852,7 +1850,7 @@
     "image": "https://images.uesp.net/8/88/SR-ingredient-Glassfish.png"
   },
   {
-    "id": "FExxx82C",
+  
     "name": "Gnarl Bark",
     "description": "originating from the shivering isle. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -1866,7 +1864,7 @@
     "image": "https://images.uesp.net/d/d0/SR-ingredient-Gnarl_Bark.jpg"
   },
   {
-    "id": "xx0008EF",
+  
     "name": "goldfish",
     "description": "caught by fishing in temperate lakes in clear weathers or in the ponds found in some clearings.",
     "good-effects": [
@@ -1878,7 +1876,7 @@
     "image": "https://images.uesp.net/2/25/SR-ingredient-Goldfish.jpg"
   },
   {
-    "id": "FExx82D",
+  
     "name": "Gold Kanet",
     "description": "originating from vvardenfell. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -1892,7 +1890,7 @@
     "image": "https://images.uesp.net/0/0e/SR-ingredient-Gold_Kanet.jpg"
   },
   {
-    "id": "xx059151",
+  
     "name": "Green Butterfly wing",
     "description": "harvested by catching green butterflies.",
     "good-effects": [
@@ -1906,7 +1904,7 @@
     "image": "https://images.uesp.net/d/d3/SR-creature-Green_Butterfly.jpg"
   },
   {
-    "id": "FExxx82E",
+  
     "name": "Hackle-Lo Leaf",
     "description": "originating from vvardenfell. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -1920,7 +1918,7 @@
     "image": "https://images.uesp.net/2/28/SR-ingredient-Hackle-Lo_Leaf.jpg"
   },
   {
-    "id": "xx024C11",
+   
     "name": "harrada",
     "description": "harvested from the deadlands, if one has the cause to go there.",
     "bad-effects": [
@@ -1932,7 +1930,7 @@
     "image": "https://images.uesp.net/8/87/SR-icon-ingredient-Harrada.png"
   },
   {
-    "id": "FExxx851",
+  
     "name": "heart of order",
     "description": "originating from the shivering isle during a graymarch. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -1944,7 +1942,7 @@
     "image": "https://images.uesp.net/5/5f/SR-ingredient-Heart_of_Order.jpg"
   },
   {
-    "id": "FExAx80C",
+  
     "name": "Hunger Tongue",
     "description": "Originating from the shivering isle. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -1958,7 +1956,7 @@
     "image": "https://images.uesp.net/3/38/SR-ingredient-Hunger_Tongue.jpg"
   },
   {
-    "id": "FExxx80D",
+  
     "name": "Hydnum Azure Giant Spore",
     "description": "originating from the shivering isle. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -1970,7 +1968,7 @@
     "image": "https://images.uesp.net/1/19/SR-ingredient-Hydnum_Azure_Giant_Spore.jpg"
   },
   {
-    "id": "FExx80E",
+  
     "name": "hypha facia",
     "description": "originating from vvardenfell. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -1984,7 +1982,7 @@
     "image": "https://images.uesp.net/3/3e/SR-ingredient-Hypha_Facia.jpg"
   },
   {
-    "id": "FExxx80F",
+  
     "name": "imp gall",
     "description": "originating from cyrodiil. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -1998,7 +1996,7 @@
     "image": "https://images.uesp.net/f/fd/SR-ingredient-Imp_Gall.jpg"
   },
   {
-    "id": "xx034cdf",
+   
     "name": "ironwood fruit",
     "description": "harvested from the ironwood trees found in iron tusk cave.",
     "good-effects": [
@@ -2012,7 +2010,7 @@
     "image": "https://images.uesp.net/5/5f/SR-ingredient-Ironwood_Fruit.jpg"
   },
   {
-    "id": "xx0008F2",
+   
     "name": "juvenile mudcrab",
     "description": "caught by fishing on the surface.",
     "good-effects": [
@@ -2024,7 +2022,7 @@
     "image": "https://images.uesp.net/d/d5/SR-ingredient-Juvenile_Mudcrab.jpg"
   },
   {
-    "id": "FExxx810",
+  
     "name": "kagouti hide",
     "description": "originating from vvardenfell. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -2038,7 +2036,7 @@
     "image": "https://images.uesp.net/0/03/SR-ingredient-Kagouti_Hide.jpg"
   },
   {
-    "id": "FExxx811",
+  
     "name": "kresh fiber",
     "description": "originating from vvardenfell. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -2052,7 +2050,7 @@
     "image": "https://images.uesp.net/e/e7/SR-ingredient-Kresh_Fiber.jpg"
   },
   {
-    "id": "FExxx837",
+   
     "name": "Lichor",
     "description": "originating from mankar camoran's destroyed realm of oblivion. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -2064,7 +2062,7 @@
     "image": "https://images.uesp.net/5/50/SR-ingredient-Lichor.jpg"
   },
   {
-    "id": "FExxx813",
+   
     "name": "Luminous Russula",
     "description": "originating from vvardenfell. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -2078,7 +2076,7 @@
     "image": "https://images.uesp.net/4/44/SR-ingredient-Luminous_Russula.jpg"
   },
   {
-    "id": "xx0008F1",
+   
     "name": "lyretail anthias",
     "description": "caught by fishing in temperate streams and at evergreen grove.",
     "good-effects": [
@@ -2090,7 +2088,7 @@
     "image": "https://images.uesp.net/e/e0/SR-ingredient-Lyretail_Anthias.png"
   },
   {
-    "id": "FExxx814",
+   
     "name": "Marshmerrow",
     "description": "originating from vvardenfell. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -2104,7 +2102,7 @@
     "image": "https://images.uesp.net/5/59/SR-ingredient-Marshmerrow.jpg"
   },
   {
-    "id": "FExxx815",
+   
     "name": "Minotaur Horn",
     "description": "originating from cyrodiil. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -2118,7 +2116,7 @@
     "image": "https://images.uesp.net/3/3b/SR-ingredient-Minotaur_Horn.jpg"
   },
   {
-    "id": "FExxx80C",
+    
     "name": "mort flesh",
     "description": "originating from cyrodiil. dropped by the zombies from Skryim:Plague of the Dead.",
     "bad-effects": [
@@ -2130,7 +2128,7 @@
     "image": "https://images.uesp.net/c/ce/SR-ingredient-Mort_Flesh.jpg"
   },
   {
-    "id": "FExxx816",
+   
     "name": "ogre's teeth",
     "description": "originating from cyrodiil. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -2144,7 +2142,7 @@
     "image": "https://images.uesp.net/f/f8/SR-ingredient-Ogre%27s_Teeth.jpg"
   },
   {
-    "id": "xx0008EC",
+   
     "name": "Pearlfish",
     "description": "caught by fishing in temperate lakes and streams in rainy weather.",
     "good-effects": [
@@ -2156,7 +2154,7 @@
     "image": "https://images.uesp.net/7/7a/SR-ingredient-Pearlfish.png"
   },
   {
-    "id": "xx059153",
+    
     "name": "Purple butterfly wing",
     "description": "they can be harvested by catching purple butterflies.",
     "good-effects": [
@@ -2170,7 +2168,7 @@
     "image": "https://images.uesp.net/7/7d/SR-creature-Purple_Butterfly.jpg"
   },
   {
-    "id": "xx0008ED",
+    
     "name": "Pygmy sunfish",
     "description": "caught by fishing in temperate lakes in rainy weather.",
     "good-effects": [
@@ -2184,7 +2182,7 @@
     "image": "https://images.uesp.net/4/49/SR-ingredient-Pygmy_Sunfish.png"
   },
   {
-    "id": "FExxx817",
+   
     "name": "Red Kelp Gas Bladder",
     "description": "originating from the shivering isle. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -2196,7 +2194,7 @@
     "image": "https://images.uesp.net/a/a6/SR-ingredient-Red_Kelp_Gas_Bladder.jpg"
   },
   {
-    "id": "FExxx818",
+    
     "name": "Redwort Flower",
     "description": "originating from cyrodiil. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -2210,7 +2208,7 @@
     "image": "https://images.uesp.net/8/89/SR-ingredient-Redwort_Flower.jpg"
   },
   {
-    "id": "FExxx819",
+    
     "name": "Roobrush",
     "description": "originating from vvardenfell. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -2224,7 +2222,7 @@
     "image": "https://images.uesp.net/5/5f/SR-ingredient-Roobrush.jpg"
   },
   {
-    "id": "0100306D",
+    
     "name": "Rot Scale",
     "description": "It can be obtained from rot scale plants in solitude sewers.",
     "bad-effects": [
@@ -2236,7 +2234,7 @@
     "image": "https://images.uesp.net/d/dc/SR-flora-Rot_Scale.jpg"
   },
   {
-    "id": "FExxx81A",
+    
     "name": "Saltrice",
     "description": "originating from morrowind. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -2250,7 +2248,7 @@
     "image": "https://images.uesp.net/d/df/SR-ingredient-Saltrice.jpg"
   },
   {
-    "id": "FExxx81B",
+    
     "name": "Scalon Fin",
     "description": "originating from the shivering isle. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -2264,7 +2262,7 @@
     "image": "https://images.uesp.net/1/12/SR-ingredient-Scalon_Fin.jpg"
   },
   {
-    "id": "0100306E",
+    
     "name": "screaming maw",
     "description": "it can be obtained from screaming maw plants in solitude sewers.",
     "good-effects": [
@@ -2276,7 +2274,7 @@
     "image": "https://images.uesp.net/b/b9/SR-flora-Screaming_Maw.jpg"
   },
   {
-    "id": "FExxx81C",
+    
     "name": "Scrib Jelly",
     "description": "originating from vvardenfell. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -2288,7 +2286,7 @@
     "image": "https://images.uesp.net/2/23/SR-ingredient-Scrib_Jelly.jpg"
   },
   {
-    "id": "FExxx81D",
+    
     "name": "scrib jerky",
     "description": "originating from vvardenfell. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -2302,7 +2300,7 @@
     "image": "https://images.uesp.net/5/53/SR-ingredient-Scrib_Jerky.jpg"
   },
   {
-    "id": "FExxx81E",
+   
     "name": "sload soap",
     "description": "popular in vvardenfell. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -2316,7 +2314,7 @@
     "image": "https://images.uesp.net/c/c2/SR-ingredient-Sload_Soap.jpg"
   },
   {
-    "id": "xx0008F3",
+  
     "name": "spadefish",
     "description": "caught by fishing in temperate streams on sunny days, in the eldergleam sanctuary, and the evergreen grove.",
     "good-effects": [
@@ -2328,7 +2326,7 @@
     "image": "https://images.uesp.net/e/e2/SR-ingredient-Spadefish.png"
   },
   {
-    "id": "xx024C15",
+ 
     "name": "spiddal stick",
     "description": "harvested from the deadlands, if one has the cause to go there.",
     "good-effects": [
@@ -2342,7 +2340,7 @@
     "image": "https://images.uesp.net/3/3b/SR-ingredient-Spiddal_Stick.jpg"
   },
   {
-    "id": "FExxx832",
+    
     "name": "Steel-Blue Entoloma",
     "description": "originating from cyrodiil. one of the rare curios sold by khajiit trade caravans. Can also be found in gromm's pass.",
     "good-effects": [
@@ -2354,7 +2352,7 @@
     "image": "https://images.uesp.net/e/e7/SR-flora-Steel-Blue_Entoloma.jpg"
   },
   {
-    "id": "FExxx81F",
+    
     "name": "stoneflower petals",
     "description": "originating from vvardenfell. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -2368,7 +2366,7 @@
     "image": "https://images.uesp.net/3/31/SR-ingredient-Stoneflower_Petals.jpg"
   },
   {
-    "id": "0100306F",
+  
     "name": "thorn hook",
     "description": "it can be harvested from thron hook plants in the solitude sewers.",
     "good-effects": [
@@ -2382,7 +2380,7 @@
     "image": "https://images.uesp.net/3/32/SR-flora-Thorn_Hook.jpg"
   },
   {
-    "id": "FExxx820",
+    
     "name": "void essence",
     "description": "originating from the shivering isle. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -2394,7 +2392,7 @@
     "image": "https://images.uesp.net/2/2a/SR-ingredient-Void_Essence.jpg"
   },
   {
-    "id": "FExxx821",
+   
     "name": "watcher's eye",
     "description": "originating from the shivering isle. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -2406,7 +2404,7 @@
     "image": "https://images.uesp.net/c/c3/SR-ingredient-Watcher%27s_Eye.jpg"
   },
   {
-    "id": "xx019D3A",
+   
     "name": "wild grass pod",
     "description": "growing near the entrance to the runoff caverns, made wild by forgotten seasons.",
     "good-effects": [
@@ -2420,7 +2418,7 @@
     "image": "https://images.uesp.net/b/bb/SR-flora-Wild_Spiky_Grass.jpg"
   },
   {
-    "id": "FExxx823",
+    
     "name": "wisp stalk caps",
     "description": "originating from cyrodiil. one of the rare curios sold by khajiit trade caravans.",
     "good-effects": [
@@ -2434,7 +2432,7 @@
     "image": "https://images.uesp.net/e/e7/SR-ingredient-Wisp_Stalk_Caps.jpg"
   },
   {
-    "id": "FExxx824",
+    
     "name": "withering moon",
     "description": "Originating from the shivering isle. one of the rare curios sold by khajiit trade caravans. they can also be found in hollow stumps in the solitude sewers",
     "good-effects": [
@@ -2446,7 +2444,7 @@
     "image": "https://images.uesp.net/b/b1/SR-ingredient-Withering_Moon.jpg"
   },
   {
-    "id": "FExxx825",
+    
     "name": "worm's head cap",
     "description": "originating from the shivering isle. one of the rare curios sold by trade caravans.",
     "good-effects": [
@@ -2460,7 +2458,7 @@
     "image": "https://images.uesp.net/7/73/SR-ingredient-Worm%27s_Head_Cap.jpg"
   },
   {
-    "id": "0001bcbc",
+    
     "name": "jarrin root",
     "description": "You may only receive this ingredient once during the Dark Brotherhood quest line.",
     "bad-effects": [
