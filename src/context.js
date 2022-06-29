@@ -8,36 +8,27 @@ const IngredientProvider = ({ children }) => {
   const [ingredients, setIngredients] = useState(data);
 
   const filterIngredientsByClick = (effects, card) => {
-    const newList = [];
+    
+    
+    const newList = data.filter((item) => {
+      if (item.name === card.name) return;
 
-    for (let i = 0; i < data.length; i++) {
-
-      if (data[i].name === card.name) {
-        continue;
-      }
-
-      if (data[i]['good-effects']) {
-        for (let effect of data[i]['good-effects']) {
+      if (item['good-effects']) {
+        for (let effect of item['good-effects']) {
           if (effects.includes(effect.toLowerCase())) {
-            newList.push(data[i]);
-            break;
+            return item;
           }
         }
       }
-      // skip loop iteration if the item has already been added to the list otherwise duplicates occur
-      if (newList.includes(data[i])) {
-        continue;
-      }
 
-      if (data[i]['bad-effects']) {
-        for (let effect of data[i]['bad-effects']) {
+      if (item['bad-effects']) {
+        for (let effect of item['bad-effects']) {
           if (effects.includes(effect.toLowerCase())) {
-            newList.push(data[i]);
-            break;
+            return item;
           }
         }
       }
-    }
+    });
     newList.unshift(card);
     setIngredients(newList);
   }
