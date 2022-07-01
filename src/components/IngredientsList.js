@@ -9,11 +9,14 @@ export default function IngredientsList() {
 
   return (
     <Wrapper>
-      {
-        ingredients.map((item) => {
-          return <Ingredient key={uuidv4()} {...item} />
-        })
-      }
+      {ingredients.length > 0 ? (
+        
+          ingredients.map((item) => {
+            return <Ingredient key={uuidv4()} {...item} />
+          })
+              
+      ) : <h2>There are no ingredients that match your input</h2>}
+
     </Wrapper>
 
   );
