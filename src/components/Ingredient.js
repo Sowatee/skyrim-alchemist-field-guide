@@ -5,21 +5,9 @@ import { useGlobalContext } from "../context";
 
 export default function Ingredient(item) {
   const { filterIngredientsByClick } = useGlobalContext();
-  const effects = [];
-
-  if (item['good-effects']) {
-    for (let effect of item['good-effects']) {
-      effects.push(effect.toLowerCase());
-    }
-  }
-  if (item['bad-effects']) {
-    for (let effect of item['bad-effects']) {
-      effects.push(effect.toLowerCase());
-    }
-  }
 
   return (
-    <Wrapper onClick={() => filterIngredientsByClick(effects, item)}>
+    <Wrapper onClick={() => filterIngredientsByClick(item)}>
       <img src={item.image} alt={item.name} />
       <footer>
         <h2>{item.name}</h2>
