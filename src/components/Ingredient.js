@@ -33,63 +33,59 @@ const Wrapper = styled.article`
   @media screen and (min-width: 756px) {
     max-width: 400px;
   }
-  width: 95vw;
-  margin: 5rem auto;
+  width: 90vw;
+  margin: auto;
+  height: 600px;
   border: 1px solid #ccc;
   border-radius: 1rem;
   text-transform: capitalize;
   letter-spacing: .1rem;
-  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  box-shadow: 1px 2px 13px 3px rgba(255,255,255,0.46);
   background: #fff;
+  transition: all linear 0.3s;
+
   &:hover {
     cursor: pointer;
+    transform: scale(1.05);
   }
 
   img {
-    max-width: 100%;
+    width: 100%;
+    height: 50%;
     object-fit: cover;
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
   }
 
   footer {
-    padding: 1.5rem 1rem 1rem 1rem;
-  }
-
-  h2 {
-    margin-bottom: 1.5rem;
-    letter-spacing: .2rem;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 0 1rem;
   }
 
   .buttons {
     width: 100%;
-    margin-top: 2rem;
     display:flex;
     flex-wrap:wrap;
     justify-content:space-evenly;
     grid-gap:1rem;
-
-
   }
 
   button {
-    width: 40%;
-    margin-right: 10px;
+    width: 45%;
+    height: 2rem;
     background: #eff5f9;
     border: none;
     text-transform: uppercase;
     text-align: center;
-    vertical-align: middle;
     outline: 0;
     letter-spacing: .4;
-    padding: .3rem;
-    min-width: fit-content;
+    vertical-align: center;
     border-radius: 5px;
     font-weight: 550;
     font-size: 12px;
-    &:hover {
-      cursor: pointer;
-    }
   }
   .healthy {
     background: #8DEBD3;
