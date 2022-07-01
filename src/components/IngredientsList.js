@@ -25,11 +25,10 @@ export default function IngredientsList() {
 const Wrapper = styled.div`
   width: 100vw;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   flex-wrap: wrap;
   gap: 3rem;
-  margin-top: 10vh;
-
+  margin: 15vh 0;
   .error {
     color: white;
   }
