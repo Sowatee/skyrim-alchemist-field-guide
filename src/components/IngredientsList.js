@@ -15,7 +15,7 @@ export default function IngredientsList() {
             return <Ingredient key={uuidv4()} {...item} />
           })
               
-      ) : <h2>There are no ingredients that match your input</h2>}
+      ) : <h2 className="error">There are no ingredients that match your input</h2>}
 
     </Wrapper>
 
@@ -29,4 +29,8 @@ const Wrapper = styled.div`
   flex-wrap: wrap;
   gap: 3rem;
   margin-top: 10vh;
+
+  .error {
+    color: white;
+  }
 `
