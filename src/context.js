@@ -11,6 +11,9 @@ const IngredientProvider = ({ children }) => {
     return fa.localeCompare(fb);
   });
 
+
+  
+
   const [ingredients, setIngredients] = useState(sorted);
   const [search, setSearch] = useState('');
 
@@ -18,9 +21,13 @@ const IngredientProvider = ({ children }) => {
     searchIngredients();
   }, [search]);
 
+  useEffect(() => {
+    window.scrollTo(0,0);
+  });
+
   // resetting it to the default of displaying all data
   const resetIngredients = () => {
-    console.log('button clicked');
+    setSearch('');
     setIngredients(sorted);
   }
 
@@ -101,6 +108,7 @@ const IngredientProvider = ({ children }) => {
     <IngredientContext.Provider
       value={{
         ingredients,
+        search,
         setSearch,
         resetIngredients,
         filterIngredientsByClick
