@@ -32,6 +32,7 @@ export default function Ingredient(item) {
 const Wrapper = styled.article`
   @media screen and (min-width: 756px) {
     max-width: 400px;
+    margin: 0
   }
   width: 90vw;
   margin: auto;
