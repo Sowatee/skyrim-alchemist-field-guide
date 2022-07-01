@@ -5,18 +5,27 @@ const IngredientContext = React.createContext();
 
 const IngredientProvider = ({ children }) => {
   // alphabetically sort data
-  const [ingredients, setIngredients] = useState(data);
+  const sorted = data.sort((a, b) => {
+    const fa = a.name.toLowerCase();
+    const fb = b.name.toLowerCase();
+    return fa.localeCompare(fb);
+  });
+
+  const [ingredients, setIngredients] = useState(sorted);
   const [search, setSearch] = useState('');
 
   useEffect(() => {
     searchIngredients();
   }, [search]);
 
+  // resetting it to the default of displaying all data
   const resetIngredients = () => {
     console.log('button clicked');
-    setIngredients(data);
+    setIngredients(sorted);
   }
 
+
+  // grabbing the effects of the given ingredient
   const getEffects = (card) => {
     const effects = [];
 
@@ -33,11 +42,13 @@ const IngredientProvider = ({ children }) => {
     return effects;
   }
 
+
+  // searching by name or one of the effects
   const searchIngredients = () => {
     if (search === "") {
-      setIngredients(data);
+      setIngredients(sorted);
     }
-    const newList = data.filter((ingr) => {
+    const newList = sorted.filter((ingr) => {
       const ingrName = ingr.name.toLowerCase();
       const effects = getEffects(ingr);
 
@@ -58,11 +69,12 @@ const IngredientProvider = ({ children }) => {
     setIngredients(newList);
   }
 
+  
   const filterIngredientsByClick = (card) => {
     
     const effects = getEffects(card);
 
-    const newList = data.filter((item) => {
+    const newList = sorted.filter((item) => {
       if (item.name === card.name) return;
 
       if (item['good-effects']) {
