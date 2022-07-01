@@ -2,8 +2,20 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background-color: rgba(253, 252, 251, 0.973);
+  background-color: #000;
+  overflow-x: hidden;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
 }
