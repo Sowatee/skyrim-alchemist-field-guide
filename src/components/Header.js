@@ -42,9 +42,6 @@ const Wrapper = styled.header`
     &:focus {
       outline: none;
     }
-
-
-
   }
 
   button {
