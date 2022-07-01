@@ -633,7 +633,8 @@
     "description": "harvested from spiky grass, found in northern regions of skyrim.",
     "good-effects": [
       "Resist Poison",
-      "Fortify Alteration"
+      "Fortify Alteration",
+      "Restore Magicka"
     ],
     "bad-effects": [
       "Ravage Magicka"
