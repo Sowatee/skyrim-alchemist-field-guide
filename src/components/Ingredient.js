@@ -61,7 +61,7 @@ const Wrapper = styled.article`
     height: 50%;
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-around;
     padding: 0 1rem;
   }
 
