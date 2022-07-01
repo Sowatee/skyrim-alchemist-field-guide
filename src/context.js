@@ -11,9 +11,6 @@ const IngredientProvider = ({ children }) => {
     return fa.localeCompare(fb);
   });
 
-
-  
-
   const [ingredients, setIngredients] = useState(sorted);
   const [search, setSearch] = useState('');
 
@@ -31,7 +28,6 @@ const IngredientProvider = ({ children }) => {
     setIngredients(sorted);
   }
 
-
   // grabbing the effects of the given ingredient
   const getEffects = (card) => {
     const effects = [];
@@ -48,7 +44,6 @@ const IngredientProvider = ({ children }) => {
     }
     return effects;
   }
-
 
   // searching by name or one of the effects
   const searchIngredients = () => {
@@ -68,17 +63,11 @@ const IngredientProvider = ({ children }) => {
           return ingr;
         }
       }
-
     });
-    if (newList.length === 0) {
-
-    }
     setIngredients(newList);
   }
 
-  
   const filterIngredientsByClick = (card) => {
-    
     const effects = getEffects(card);
 
     const newList = sorted.filter((item) => {
