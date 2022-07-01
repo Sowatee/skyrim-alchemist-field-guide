@@ -27,5 +27,6 @@ const Wrapper = styled.div`
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-
+  gap: 3rem;
+  margin-top: 10vh;
 `
