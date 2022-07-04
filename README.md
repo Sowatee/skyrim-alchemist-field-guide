@@ -8,6 +8,6 @@ But don't forget the search magic! Perhaps the greatest part of this guide the A
 
 That's enough lollygagging! Try it out for yourself.
 
-[Live Demo](alchemistfieldguide.netlify.app)
+[Live Demo](https://www.alchemistfieldguide.netlify.app)
 
 <sub>P.S. The user takes full responsibility for any potions, either for good or ill, that they brew with the help of this guide. The Archmage is in no way shape or form liable for any harm or death caused upon any person, elf, orc, khajiit, or argonian.</sub>
